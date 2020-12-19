@@ -28,6 +28,10 @@ openings = []
 for Openingoptions in opening.options:
     openings.append(Openingoptions.text)
 
+def countPages(url):
+    n = int(url[url.find('page=')+5:])
+    return n
+
 # Strips all the whitespaces and /n character
 openings.remove(openings[0])
 for i in range(len(openings)):
@@ -38,16 +42,21 @@ for i in range(len(openings)):
     driver.get(url)
     driver.find_element_by_xpath('//*[@id="games-root-index"]/div/div[1]/div/nav/button[7]').click()
     pageUrl = driver.current_url
-    noOfPages = int(pageUrl[-2:])
+    noOfPages = countPages(pageUrl)
     if not os.path.exists(openings[i]):
             os.makedirs(openings[i])
     pgns = os.path.join(r'D:\Programming\WebScraping\ChessdotcomScrapper', openings[i])
     enable_download_headless(driver, pgns)
-    for j in range(noOfPages,1,-1):
-        pageUrl[-2:] = str(j)
+    for j in range(noOfPages,0,-1):
+        pageUrl = pageUrl[:pageUrl.find('page=')+5] + str(j)
         driver.get(pageUrl)
         driver.find_element_by_xpath('//*[@id="games-root-index"]/div/div[2]/div/table/thead/tr/th[7]/input').click()
         driver.find_element_by_xpath('//*[@id="games-root-index"]/div/header/div/button/div/span').click()
+        src = os.path.join(pgns,'chess_com_games_2020-12-19.pgn')
+        dst = os.path.join(pgns, openings[i]+str(j)+'.pgn')
+        while not os.path.exists(src):
+            time.sleep(0.2)
+        os.rename(src,dst)
 
 driver.close
 
