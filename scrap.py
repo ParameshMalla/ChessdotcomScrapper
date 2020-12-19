@@ -4,7 +4,7 @@ from selenium.webdriver.support.ui import Select
 import time
 import os
 
-# function to take care of downloading file
+# function to take care of downloading files
 def enable_download_headless(browser,download_dir):
     browser.command_executor._commands["send_command"] = ("POST", '/session/$sessionId/chromium/send_command')
     params = {'cmd':'Page.setDownloadBehavior', 'params': {'behavior': 'allow', 'downloadPath': download_dir}}
@@ -16,9 +16,9 @@ options.add_argument("--disable-notifications")
 driver = webdriver.Chrome(chrome_options=options, executable_path="chromedriver" )
 driver.get('https://www.chess.com/login')
 
-driver.find_element_by_name("_username").send_keys("hesela5462")
+driver.find_element_by_name("_username").send_keys("username")
 time.sleep(0.2)
-driver.find_element_by_name("_password").send_keys("chesscrap")
+driver.find_element_by_name("_password").send_keys("password")
 time.sleep(0.4)
 driver.find_element_by_name("login").click()
 
