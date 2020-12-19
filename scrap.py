@@ -40,9 +40,12 @@ for i in range(len(openings)):
     openings[i] = openings[i].replace('-','_')
     url = "https://www.chess.com/games/archive/hikaru?gameOwner=other_game&gameType=live&opening="+openings[i]+"&timeSort=desc&gameTypes%5B0%5D=chess960&gameTypes%5B1%5D=daily"
     driver.get(url)
-    driver.find_element_by_xpath('//*[@id="games-root-index"]/div/div[1]/div/nav/button[7]').click()
-    pageUrl = driver.current_url
-    noOfPages = countPages(pageUrl)
+    if(len(driver.find_elements_by_xpath('//*[@id="games-root-index"]/div/div[1]/div/nav/button[7]'))>0):
+        driver.find_element_by_xpath('//*[@id="games-root-index"]/div/div[1]/div/nav/button[7]').click()
+        pageUrl = driver.current_url
+        noOfPages = countPages(pageUrl)
+    else:
+        noOfPages = 2
     if not os.path.exists(openings[i]):
             os.makedirs(openings[i])
     pgns = os.path.join(r'D:\Programming\WebScraping\ChessdotcomScrapper', openings[i])
@@ -50,7 +53,13 @@ for i in range(len(openings)):
     for j in range(noOfPages,0,-1):
         pageUrl = pageUrl[:pageUrl.find('page=')+5] + str(j)
         driver.get(pageUrl)
-        driver.find_element_by_xpath('//*[@id="games-root-index"]/div/div[2]/div/table/thead/tr/th[7]/input').click()
+        if(len(driver.find_elements_by_xpath('//*[@id="games-root-index"]/div/div[2]/div/table/thead/tr/th[7]/input')) > 0):
+            driver.find_element_by_xpath('//*[@id="games-root-index"]/div/div[2]/div/table/thead/tr/th[7]/input').click()
+        elif(len(driver.find_elements_by_xpath('//*[@id="games-root-index"]/div/div[1]/div/table/thead/tr/th[7]/input')) > 0):
+            driver.find_element_by_xpath('//*[@id="games-root-index"]/div/div[1]/div/table/thead/tr/th[7]/input').click()
+            j = 1
+            pageUrl = pageUrl[:pageUrl.find('page=')+5] + str(j)
+            driver.get(pageUrl)
         driver.find_element_by_xpath('//*[@id="games-root-index"]/div/header/div/button/div/span').click()
         src = os.path.join(pgns,'chess_com_games_2020-12-19.pgn')
         dst = os.path.join(pgns, openings[i]+str(j)+'.pgn')
