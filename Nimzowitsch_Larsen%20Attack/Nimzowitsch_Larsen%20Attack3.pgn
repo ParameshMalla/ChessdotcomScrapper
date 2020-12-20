@@ -1,0 +1,1028 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.07.04"]
+[Round "-"]
+[White "Culum2007"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "2304"]
+[BlackElo "3254"]
+[TimeControl "180"]
+[EndTime "13:26:25 PDT"]
+[Termination "Hikaru won on time"]
+
+1. b3 g6 2. Bb2 Nf6 3. Nf3 Bg7 4. e3 d6 5. d4 O-O 6. Be2 c5 7. Nbd2 cxd4 8. exd4
+d5 9. O-O Nc6 10. Ne5 Bf5 11. c4 Rc8 12. Rc1 dxc4 13. Ndxc4 Nd5 14. Bf3 Be6 15.
+Ne3 Nxe3 16. fxe3 Nxe5 17. dxe5 Qa5 18. Bxb7 Rxc1 19. Qxc1 Qxa2 20. Bd4 Qxb3 21.
+Qc7 a5 22. Bc6 Bh6 23. Re1 Rc8 24. Qxe7 Bf8 25. Qb7 Qxb7 26. Bxb7 Rc2 27. Be4
+Rc8 28. Ra1 Bb4 29. Bb6 Bd2 30. Bxa5 Bxe3+ 31. Kf1 Bc4+ 32. Ke1 Bf4 33. Bc3 Bxh2
+34. Ra8 Rxa8 35. Bxa8 Bg3+ 36. Kd2 Bf4+ 37. Ke1 Kf8 38. Bb4+ Kg7 39. Bc3 Bg3+
+40. Kd2 Be6 41. Bf3 h5 42. Ke3 h4 43. Ke4 g5 44. Be2 g4 45. Kd4 Kg6 46. Bd3+ Kh5
+47. Be4 Bf2+ 48. Kd3 Bb6 49. Bd2 h3 50. gxh3 gxh3 51. Bf4 Kg4 52. Bh2 Bf2 53.
+Ke2 Bg3 54. Bg1 h2 55. Be3 Bc4+ 56. Kd2 Bxe5 57. Bh1 Bf4 58. Bc6 Bxe3+ 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.07.04"]
+[Round "-"]
+[White "Hikaru"]
+[Black "Bigfish1995"]
+[Result "1-0"]
+[WhiteElo "3266"]
+[BlackElo "2871"]
+[TimeControl "60"]
+[EndTime "15:14:08 PDT"]
+[Termination "Hikaru won by resignation"]
+
+1. b3 b6 2. Bb2 Bb7 3. Nf3 Nf6 4. e3 e6 5. d4 Be7 6. Be2 O-O 7. O-O d5 8. c4
+Nbd7 9. Nc3 Ne4 10. cxd5 Nxc3 11. Bxc3 Bxd5 12. Ba6 Nf6 13. Qe2 c5 14. Bb2 cxd4
+15. Nxd4 Qd7 16. Rfd1 Rfd8 17. f3 Bb7 18. Nf5 Bxa6 19. Nxe7+ Qxe7 20. Qxa6 Nd5
+21. e4 Qc5+ 22. Kh1 Ne3 23. Rdc1 Qg5 24. Qe2 Ng4 25. Rd1 Rxd1+ 26. Rxd1 Nf6 27.
+Bc1 Qc5 28. Bb2 h6 29. g4 Rc8 30. Rd2 Qe5 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.07.07"]
+[Round "-"]
+[White "Hikaru-bot"]
+[Black "Hikaru"]
+[Result "1-0"]
+[WhiteElo "1965"]
+[BlackElo "3224"]
+[TimeControl "300"]
+[EndTime "13:19:59 PDT"]
+[Termination "Hikaru-bot won by resignation"]
+
+1. b3 f6 2. Bb2 Nh6 3. e4 Nf7 4. Nc3 e6 5. Nf3 d5 6. Bd3 d4 7. Ne2 c5 8. O-O Nc6
+9. c3 e5 10. Bc4 Nd6 11. Bd5 Ne7 12. Ng3 Nxd5 13. exd5 Be7 14. Ne1 O-O 15. a4 b6
+16. f3 dxc3 17. dxc3 c4 18. b4 Bb7 19. Nc2 a6 20. Re1 b5 21. a5 Qd7 22. Qd2 Rae8
+23. f4 Nf7 24. Rad1 Bd6 25. f5 Bb8 26. Qf2 Bc8 27. Bc1 Ba7 28. Be3 Bxe3 29. Nxe3
+Nd6 30. Qc2 e4 31. Rd4 Re5 32. Nxe4 Nxe4 33. Rxe4 Rfe8 34. Ng4 Qxd5 35. Rxe5
+fxe5 36. Qf2 e4 37. Rf1 Rf8 38. Ne3 Qe5 39. Qe1 Rd8 40. Ng4 Qc7 41. Qxe4 Bb7 42.
+Qe6+ Qf7 43. Qb6 Rd2 44. Ne3 Qe7 45. Rf2 Rd3 46. Re2 h5 47. Qe6+ Qxe6 48. fxe6
+g6 49. Nxc4 bxc4 50. e7 Bc6 51. e8=Q+ Bxe8 52. Rxe8+ Kf7 53. Ra8 Rxc3 54. Rxa6
+Rb3 55. Rb6 c3 56. Kf2 c2 57. Rc6 Rxb4 58. Rxc2 Ra4 59. Rc7+ Kf6 60. Rc6+ Kf5
+61. a6 h4 62. h3 Ra3 63. Rb6 g5 64. Kg1 Kf4 65. Kh2 Ra1 66. Rf6+ Ke5 67. Rc6 Kf5
+68. Rh6 Ke5 69. Rb6 Kf5 70. Rc6 Ke5 71. Rh6 Kf5 72. g4+ hxg3+ 73. Kxg3 Ra3+ 74.
+Kf2 Kf4 75. Ke2 g4 76. hxg4 Kxg4 77. Kd2 Kf5 78. Kc2 Ke5 79. Kb2 Rf3 80. a7 Rf8
+81. Ra6 Ra8 82. Kb3 Kd4 83. Kb4 Kd5 84. Kb5 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.07.10"]
+[Round "-"]
+[White "Hikaru"]
+[Black "Robert_Chessmood"]
+[Result "1-0"]
+[WhiteElo "3213"]
+[BlackElo "2904"]
+[TimeControl "180"]
+[EndTime "14:37:02 PDT"]
+[Termination "Hikaru won by resignation"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 Nf6 4. Bb5 e4 5. d4 a6 6. Bf1 d5 7. c4 Bb4+ 8. Nc3 O-O
+9. a3 Bxc3+ 10. Bxc3 Ne7 11. a4 c6 12. a5 Re8 13. Ne2 h5 14. h3 h4 15. Bb4 g5
+16. Nc3 Be6 17. Na4 Nd7 18. Rg1 Nf5 19. Be2 Qf6 20. Qc2 Qg6 21. O-O-O Rac8 22.
+Kb1 Kh8 23. Bg4 Nh6 24. Bxe6 Qxe6 25. g3 Rg8 26. gxh4 gxh4 27. Qe2 Qf5 28. Bd6
+Kh7 29. Bf4 Rxg1 30. Rxg1 Rg8 31. Rc1 Rg6 32. cxd5 Qxd5 33. Qc4 Qxa5 34. Bxh6
+Kxh6 35. Qxf7 Nf6 36. Qf8+ Kh7 37. Qf7+ Kh6 38. Qxb7 Nd5 39. Qb8 Kh7 40. Qb7+
+Kh6 41. Qc8 Kh7 42. Qd7+ Kh6 43. Qe8 Kh7 44. Qxe4 Qd2 45. Rxc6 Qe1+ 46. Kb2
+Qxf2+ 47. Ka3 Qg2 48. Qxh4+ Kg7 49. Rxg6+ Qxg6 50. e4 Ne3 51. e5 Nc2+ 52. Kb2
+Qg2 53. Qf6+ Kg8 54. Qe6+ Kh8 55. Qc8+ Kg7 56. Qxc2 Qxh3 57. d5 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.07.12"]
+[Round "-"]
+[White "Hikaru"]
+[Black "Gabix_94"]
+[Result "1/2-1/2"]
+[WhiteElo "3193"]
+[BlackElo "2946"]
+[TimeControl "180"]
+[EndTime "15:18:52 PDT"]
+[Termination "Game drawn by agreement"]
+
+1. b3 Nf6 2. Bb2 e6 3. Nf3 d5 4. e3 Be7 5. d4 O-O 6. Bd3 c5 7. O-O Nc6 8. Nbd2
+b6 9. Ne5 Bb7 10. f4 Rc8 11. a3 cxd4 12. exd4 Ne8 13. f5 Nxe5 14. dxe5 exf5 15.
+Bxf5 Rc6 16. Nf3 Nc7 17. Qd2 Bc8 18. Bd3 Rh6 19. Rae1 Ne6 20. b4 a5 21. c3 Bb7
+22. Bc1 axb4 23. cxb4 d4 24. Qf2 Rh5 25. Qg3 g6 26. Qg4 Bc8 27. Qe4 Qc7 28. Bd2
+Bb7 29. Qe2 Ng5 30. Nxd4 Rd8 31. Rf4 Ne6 32. Nxe6 fxe6 33. Bc4 Qc6 34. b5 Bc5+
+35. Kh1 Qxg2+ 36. Qxg2 Bxg2+ 37. Kxg2 Rxd2+ 38. Kg3 Rg5+ 39. Kh3 Rh5+ 40. Kg3
+Rg5+ 41. Kh3 1/2-1/2
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.07.12"]
+[Round "-"]
+[White "Culum2007"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "2293"]
+[BlackElo "3207"]
+[TimeControl "180"]
+[EndTime "10:25:07 PDT"]
+[Termination "Hikaru won by resignation"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 g6 4. Nf3 Bg7 5. d4 e4 6. Nfd2 f5 7. c4 Nh6 8. Nc3 O-O
+9. g3 d6 10. a3 Ne7 11. Be2 c5 12. d5 Nf7 13. Qc2 a6 14. h4 Bd7 15. h5 g5 16. g4
+fxg4 17. Ncxe4 Nf5 18. Bxg7 Nxg7 19. h6 Nf5 20. Qc3 N7xh6 21. Rh5 Qe7 22. Rxg5+
+Ng7 23. O-O-O Bf5 24. Ng3 Qxg5 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.07.14"]
+[Round "-"]
+[White "woodpusher52"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "2463"]
+[BlackElo "3208"]
+[TimeControl "180"]
+[EndTime "18:56:24 PDT"]
+[Termination "Hikaru won by checkmate"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 g6 4. Nf3 Bg7 5. d4 e4 6. Nfd2 f5 7. c4 Nh6 8. Nc3 O-O
+9. Be2 d6 10. a3 Ne7 11. g3 c6 12. h4 d5 13. Qc2 Be6 14. O-O-O Ng4 15. Rdf1 Rc8
+16. c5 b5 17. h5 g5 18. Nd1 h6 19. f3 exf3 20. Bxf3 Nf6 21. Kb1 Ne4 22. Rhg1 Qd7
+23. Ka1 a5 24. Nf2 g4 25. Nfxe4 fxe4 26. Be2 a4 27. b4 Rf3 28. Nxf3 gxf3 29. Bd1
+Bg4 30. Rf2 Nf5 31. Qd2 Bf6 32. Bc1 Qg7 33. Kb1 Re8 34. Bc2 Nxd4 35. exd4 e3 36.
+Qxe3 Rxe3 37. Bxe3 Bxd4 38. Re1 Bc3 39. Rd1 Qf6 40. Bg6 Bf5+ 41. Bxf5 Qxf5+ 42.
+Rc2 d4 43. Bf2 Qe6 44. Bxd4 Qb3+ 45. Kc1 Qxa3+ 46. Kb1 Qa1# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.07.16"]
+[Round "-"]
+[White "Hikaru"]
+[Black "KingslayerHD"]
+[Result "1-0"]
+[WhiteElo "3213"]
+[BlackElo "1326"]
+[TimeControl "180+2"]
+[EndTime "13:35:10 PDT"]
+[Termination "Hikaru won by checkmate"]
+
+1. b3 d5 2. Bb2 Bf5 3. Nf3 e6 4. g3 c5 5. Nh4 Bg6 6. Nxg6 fxg6 7. Bg2 Nf6 8. d3
+Be7 9. Nd2 O-O 10. e4 d4 11. O-O e5 12. Nc4 Nc6 13. a4 a5 14. f4 exf4 15. gxf4
+Nh5 16. Bc1 Bd6 17. e5 Be7 18. Qg4 Rf7 19. f5 Rxf5 20. Rxf5 gxf5 21. Qxh5 Qc7
+22. Qxf5 Rf8 23. Qe6+ Kh8 24. Bxc6 bxc6 25. Bd2 Re8 26. Rf1 Qb8 27. Qxc6 Qc8 28.
+Qxc8 Rxc8 29. Nd6 Bxd6 30. exd6 Rd8 31. Bxa5 Ra8 32. d7 g6 33. Re1 Kg7 34. Re8
+Rxa5 35. d8=Q Ra7 36. Rg8+ Kh6 37. Qh4# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.07.16"]
+[Round "-"]
+[White "Hikaru"]
+[Black "zvire69"]
+[Result "1-0"]
+[WhiteElo "3213"]
+[BlackElo "1062"]
+[TimeControl "180"]
+[EndTime "13:59:19 PDT"]
+[Termination "Hikaru won by checkmate"]
+
+1. b3 e6 2. Bb2 Ke7 3. Nf3 f6 4. e4 d5 5. e5 g5 6. exf6+ Nxf6 7. Ne5 Bg7 8. Ba3+
+Ke8 9. d4 Nc6 10. Nd2 Nxe5 11. dxe5 Nd7 12. Qh5# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.07.16"]
+[Round "-"]
+[White "Hikaru"]
+[Black "RightCarrot"]
+[Result "1-0"]
+[WhiteElo "3213"]
+[BlackElo "744"]
+[TimeControl "180"]
+[EndTime "14:35:03 PDT"]
+[Termination "Hikaru won by checkmate"]
+
+1. b3 c6 2. Bb2 d5 3. Nf3 Bf5 4. e3 e6 5. d4 Ne7 6. Bd3 Bxd3 7. Qxd3 Nf5 8. Nbd2
+c5 9. dxc5 Nc6 10. O-O-O Be7 11. e4 O-O 12. exf5 exf5 13. Rhe1 Bxc5 14. Qc3 Bb6
+15. Qxg7# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.07.30"]
+[Round "-"]
+[White "Hikaru"]
+[Black "0gZPanda"]
+[Result "1-0"]
+[WhiteElo "3247"]
+[BlackElo "2844"]
+[TimeControl "180"]
+[EndTime "15:43:39 PDT"]
+[Termination "Hikaru won by resignation"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 Nf6 4. Bb5 Bd6 5. Na3 Na5 6. Be2 a6 7. c4 O-O 8. Nc2
+Nc6 9. Nf3 Re8 10. d4 exd4 11. Nfxd4 Nxd4 12. Nxd4 Bf8 13. O-O d5 14. cxd5 Nxd5
+15. Bf3 c6 16. Qc2 Nb4 17. Qc3 Nd5 18. Qd2 Bb4 19. Qc2 Qg5 20. Rad1 Bg4 21. Bxg4
+Qxg4 22. h3 Qg6 23. Qc1 Rad8 24. Nf3 Bd6 25. Rd4 Nf6 26. Rfd1 Ne4 27. Nd2 Ng5
+28. Qb1 Nxh3+ 29. Kf1 Ng5 30. Qxg6 hxg6 31. Nc4 Bc7 32. Rd7 Ne6 33. Be5 Rxd7 34.
+Rxd7 Rc8 35. Bxc7 Rxc7 36. Rd2 b5 37. Ne5 Kf8 38. Rd6 Ke7 39. Rxc6 Rxc6 40.
+Nxc6+ Kd6 41. Nb4 a5 42. Nc2 Kd5 43. Ke2 b4 44. f3 f5 45. Ne1 g5 46. Nd3 g6 47.
+Nb2 Nc5 48. Nc4 Nb7 49. g4 fxg4 50. fxg4 Ke4 51. Nd2+ Kd5 52. Nf3 a4 53. bxa4
+Nc5 54. a5 Kc6 55. Nd4+ Kb7 56. Nb3 Ne4 57. Kf3 Nc3 58. e4 Nxa2 59. e5 Nc3 60.
+e6 Kc6 61. Nd4+ Kd6 62. a6 Nd5 63. a7 Nb6 64. Ke3 b3 65. Kd3 Na8 66. Kc3 Nb6 67.
+Kxb3 Ke7 68. Kb4 Kd6 69. Kb5 Na8 70. Ka6 Kc7 71. e7 Kd7 72. Nb5 Kc6 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.07.30"]
+[Round "-"]
+[White "LushTank"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "2352"]
+[BlackElo "3249"]
+[TimeControl "180"]
+[EndTime "8:26:35 PDT"]
+[Termination "Hikaru won on time"]
+
+1. b3 f6 2. Bb2 Nh6 3. e3 Nf7 4. Nf3 g6 5. c4 Bg7 6. d3 O-O 7. Be2 e5 8. O-O f5
+9. d4 d6 10. dxe5 dxe5 11. Qxd8 Rxd8 12. Rd1 Re8 13. Nc3 c6 14. e4 f4 15. Rd2
+Be6 16. Rad1 Na6 17. a3 Nc5 18. b4 Nb3 19. Rc2 g5 20. h3 h5 21. Nb1 Rad8 22. c5
+g4 23. hxg4 hxg4 24. Nh2 Ng5 25. f3 g3 26. Nf1 Bf7 27. Bc4 Rxd1 28. Bxf7+ Kxf7
+29. Nc3 Rh8 30. Nxd1 Rd8 31. Nc3 Ne6 32. Re2 Ned4 33. Rd2 Nxd2 34. Nxd2 Ne2+ 35.
+Nxe2 Rxd2 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.07.30"]
+[Round "-"]
+[White "kingmonkey88"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "2536"]
+[BlackElo "3249"]
+[TimeControl "180"]
+[EndTime "8:29:56 PDT"]
+[Termination "Hikaru won by resignation"]
+
+1. b3 Nh6 2. Bb2 f6 3. e4 Nf7 4. Nf3 e5 5. d4 d6 6. Nbd2 Nc6 7. g3 g6 8. Bg2 Bg7
+9. O-O O-O 10. Re1 a5 11. c4 Ng5 12. Nxg5 fxg5 13. d5 Nd4 14. a3 g4 15. Bxd4
+exd4 16. f4 gxf3 17. Nxf3 Bg4 18. Qd3 Bxf3 19. Bxf3 Qg5 20. Rf1 Rf7 21. Bg2 Qe3+
+22. Qxe3 dxe3 23. Rae1 Raf8 24. Rxf7 Rxf7 25. Re2 Bd4 26. Bh3 Kg7 27. Be6 Rf8
+28. a4 Kf6 29. Bh3 Ke5 30. Bg2 Bc5 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.07.30"]
+[Round "-"]
+[White "LushTank"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "2224"]
+[BlackElo "3250"]
+[TimeControl "180"]
+[EndTime "8:57:57 PDT"]
+[Termination "Hikaru won by resignation"]
+
+1. b3 f6 2. Bb2 e6 3. e4 Ke7 4. d4 d5 5. exd5 exd5 6. c4 c6 7. cxd5 cxd5 8. Ba3+
+Kf7 9. Bxf8 Kxf8 10. Qh5 Qa5+ 11. Kd1 Nc6 12. Nf3 Nge7 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.08.11"]
+[Round "-"]
+[White "ArthurGuo"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "2387"]
+[BlackElo "3235"]
+[TimeControl "180"]
+[EndTime "12:54:55 PDT"]
+[Termination "Hikaru won by resignation"]
+
+1. b3 g6 2. Bb2 f6 3. c4 Bg7 4. Nf3 e5 5. e3 Nc6 6. d4 d6 7. Be2 Nh6 8. O-O O-O
+9. Nc3 Nf7 10. c5 dxc5 11. dxc5 Be6 12. Qxd8 Rfxd8 13. Rfd1 Bf8 14. Nb5 Rdc8 15.
+Ba3 a6 16. Nc3 Rab8 17. Nd5 Kg7 18. b4 e4 19. Ne1 Nce5 20. Nc2 c6 21. Nf4 Bc4
+22. Nd4 Bxe2 23. Ndxe2 Nc4 24. Bc1 Nfe5 25. Nd4 a5 26. a3 Kf7 27. Rb1 axb4 28.
+axb4 b6 29. cxb6 Rxb6 30. Bd2 Nxd2 31. Rxd2 Bxb4 32. Rdb2 Rcb8 33. Rc2 Bc5 34.
+Rd1 Rb1 35. Rcc1 Rxc1 36. Rxc1 Bxd4 37. exd4 Nd3 38. Nxd3 exd3 39. Kf1 Ke6 40.
+Ke1 Kd5 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.08.11"]
+[Round "-"]
+[White "Culum2007"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "2315"]
+[BlackElo "3235"]
+[TimeControl "180"]
+[EndTime "13:03:40 PDT"]
+[Termination "Hikaru won by resignation"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 Nf6 4. Nf3 d6 5. d4 e4 6. Nfd2 Ne7 7. c4 c6 8. Nc3 d5
+9. Be2 h5 10. h3 h4 11. Qc2 a6 12. cxd5 cxd5 13. O-O-O Bf5 14. Kb1 Rc8 15. Rc1
+Nc6 16. Qd1 Be7 17. Bg4 Nxg4 18. hxg4 Be6 19. f3 exf3 20. gxf3 Nb4 21. Qe2 f5
+22. gxf5 Bxf5+ 23. e4 Bh7 24. a3 Nc6 25. Qg2 O-O 26. Rcg1 Rf7 27. Ka2 dxe4 28.
+Ncxe4 Nxd4 29. Nc4 Nxb3 30. Kxb3 Qd3+ 31. Ka2 Qxc4+ 32. Ka1 Qc2 33. Qxg7+ Rxg7
+34. Rxg7+ Kf8 35. Rxh7 Rd8 36. Rh8+ Kf7 37. Rxd8 Bxd8 38. Rc1 Qg2 39. Nd6+ Kg6
+40. Bd4 Bf6 41. Rg1 Bxd4+ 0-1
+
+[Event "Hikaru First Ever Swiss 3 0 "]
+[Site "Chess.com"]
+[Date "2020.08.16"]
+[Round "10"]
+[White "Culum2007"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "2346"]
+[BlackElo "3234"]
+[TimeControl "180"]
+[EndTime "13:52:00 PDT"]
+[Termination "Hikaru won by resignation"]
+
+1. b3 c5 2. Bb2 Nc6 3. Nf3 d5 4. e3 Nf6 5. d4 e6 6. Bd3 Nb4 7. Be2 cxd4 8. exd4
+Bd6 9. O-O O-O 10. a3 Nc6 11. Ne5 Nd7 12. f4 f6 13. Nxd7 Bxd7 14. c4 dxc4 15.
+Bxc4 Na5 16. Bd3 Rc8 17. Nc3 Qb6 18. Ne4 Nxb3 19. Nxd6 Nxa1 20. Nxc8 Qxb2 21.
+Bxh7+ Kh8 22. Bg6 Rxc8 23. Qh5+ Kg8 24. Qh7+ Kf8 25. Qh8+ Ke7 26. Qxg7+ Kd6 27.
+Qxf6 Qe2 28. Rxa1 Qe3+ 29. Kh1 Qc1+ 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.09.11"]
+[Round "-"]
+[White "Hikaru"]
+[Black "denizozen"]
+[Result "1-0"]
+[WhiteElo "3387"]
+[BlackElo "3017"]
+[TimeControl "60"]
+[EndTime "14:22:37 PDT"]
+[Termination "Hikaru won by resignation"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 Nf6 4. Bb5 Bd6 5. Na3 O-O 6. Bxc6 dxc6 7. Nc4 Qe7 8.
+Ne2 Bf5 9. O-O Rfe8 10. f4 exf4 11. Nxd6 cxd6 12. Rxf4 Bg6 13. Bxf6 gxf6 14. Ng3
+d5 15. c3 Rad8 16. Qf3 Kg7 17. Rf1 Rd6 18. h4 h5 19. Nxh5+ Bxh5 20. Qxh5 Qe5 21.
+Rg4+ Kf8 22. Rf5 Qe6 23. Rgf4 Ke7 24. Rxf6 Qxf6 25. Rxf6 Rxf6 26. Qe5+ Re6 27.
+Qc7+ Kf6 28. Qxb7 R8e7 29. Qb8 c5 30. Qg8 Re5 31. Qg4 Re4 32. Qg5+ Ke6 33. h5
+Re5 34. Qg4+ Kd6 35. h6 f5 36. Qg8 f4 37. h7 fxe3 38. dxe3 Rxe3 39. h8=Q Re1+
+40. Kh2 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.09.11"]
+[Round "-"]
+[White "Hikaru"]
+[Black "denizozen"]
+[Result "1-0"]
+[WhiteElo "3393"]
+[BlackElo "3013"]
+[TimeControl "60"]
+[EndTime "14:24:01 PDT"]
+[Termination "Hikaru won by checkmate"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 Nf6 4. Bb5 d5 5. Bxe5 Bd6 6. Bxd6 Qxd6 7. Ne2 Bg4 8.
+h3 Bxe2 9. Qxe2 O-O-O 10. Bxc6 Qxc6 11. c3 d4 12. cxd4 Qxg2 13. Qf1 Qf3 14. Nc3
+Rhe8 15. Ne2 Qf5 16. O-O-O c5 17. Kb2 cxd4 18. Nxd4 Qe5 19. f4 Qe4 20. Qc4+ Kb8
+21. Rc1 Rc8 22. Qxf7 Red8 23. Rxc8+ Rxc8 24. Rc1 Rxc1 25. Kxc1 Qh1+ 26. Kb2 Qxh3
+27. Qf8+ Kc7 28. Qxg7+ Nd7 29. Nb5+ Kb6 30. a4 a6 31. Qd4+ Ka5 32. b4+ Kxa4 33.
+Nc3# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.09.11"]
+[Round "-"]
+[White "Hikaru"]
+[Black "denizozen"]
+[Result "1-0"]
+[WhiteElo "3398"]
+[BlackElo "3009"]
+[TimeControl "60"]
+[EndTime "14:28:02 PDT"]
+[Termination "Hikaru won by checkmate"]
+
+1. b3 Nc6 2. Bb2 e5 3. e3 d5 4. Bb5 Bd6 5. Nf3 Qe7 6. d4 exd4 7. Nxd4 Bd7 8. Nc3
+Nf6 9. Nf3 O-O 10. Nxd5 Nxd5 11. Qxd5 a6 12. Be2 Be6 13. Qd2 Bb4 14. c3 Rad8 15.
+Qc2 Bd6 16. Bd3 h6 17. O-O Bg4 18. Nd4 Ne5 19. Bh7+ Kh8 20. Be4 Qh4 21. g3 Qh5
+22. f4 Nc6 23. c4 Nxd4 24. exd4 Rde8 25. Rae1 Bh3 26. Bg2 Bxg2 27. Kxg2 Qg4 28.
+Qd1 Qd7 29. Qf3 c6 30. d5 Bb4 31. Rd1 cxd5 32. Rxd5 Qc6 33. Rf2 Bd6 34. Rfd2 Bb8
+35. h4 Qe6 36. Rh5 Kg8 37. f5 Qe4 38. Qxe4 Rxe4 39. f6 g6 40. Rhd5 Re3 41. Rd8
+Ree8 42. Rxe8 Rxe8 43. Kf3 g5 44. Ba3 Be5 45. hxg5 hxg5 46. Be7 Kh7 47. Rd5 Bb8
+48. Rxg5 Rg8 49. Rxg8 Kxg8 50. g4 Kh7 51. Ke4 Kg6 52. c5 Bg3 53. b4 Bh4 54. a4
+Be1 55. b5 axb5 56. axb5 Ba5 57. c6 bxc6 58. bxc6 Bc7 59. Kd5 Bf4 60. Bd6 Bg5
+61. c7 Bxf6 62. c8=Q Bg7 63. Qf5+ Kh6 64. Qh5# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.09.12"]
+[Round "-"]
+[White "Hikaru"]
+[Black "aa175"]
+[Result "1-0"]
+[WhiteElo "3400"]
+[BlackElo "2492"]
+[TimeControl "60"]
+[EndTime "9:27:59 PDT"]
+[Termination "Hikaru won by resignation"]
+
+1. b3 d5 2. Bb2 Bf5 3. Nf3 e6 4. e3 Nf6 5. d4 Nbd7 6. Bd3 Bd6 7. c4 c6 8. O-O
+Ne4 9. Nc3 h5 10. Qc2 Ndf6 11. Nd2 Nxd2 12. Qxd2 Ne4 13. Bxe4 dxe4 14. f3 exf3
+15. Rxf3 Qh4 16. h3 Be4 17. Nxe4 Qxe4 18. Raf1 f6 19. Bc3 O-O-O 20. Bb4 Bxb4 21.
+Qxb4 h4 22. Qc3 e5 23. dxe5 Rd3 24. Qa5 Qxe5 25. Qxa7 Qb8 26. Qxb8+ Kxb8 27. e4
+Rd2 28. R1f2 Rhd8 29. Rxd2 Rxd2 30. Rf4 Rxa2 31. Rxh4 Rb2 32. Rh7 Rxb3 33. Rxg7
+Rc3 34. h4 Rxc4 35. h5 Rxe4 36. g4 c5 37. h6 Re1+ 38. Kg2 Re2+ 39. Kg3 Re3+ 40.
+Kf4 Rh3 41. h7 Ka7 42. Kf5 c4 43. Kg6 c3 44. Rc7 Kb6 45. Rxc3 Rxc3 46. h8=Q Rc6
+47. Qd8+ Ka7 48. Kf5 Ra6 49. Qc7 Rc6 50. Qxc6 bxc6 51. Kxf6 c5 52. Ke5 c4 53.
+Kd4 Kb6 54. g5 Kc6 55. g6 Kd6 56. g7 c3 57. Kxc3 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.09.22"]
+[Round "-"]
+[White "Hikaru"]
+[Black "GMBenjaminBok"]
+[Result "0-1"]
+[WhiteElo "3171"]
+[BlackElo "3038"]
+[TimeControl "180"]
+[EndTime "15:23:21 PDT"]
+[Termination "GMBenjaminBok won by resignation"]
+
+1. b3 d5 2. Bb2 Bf5 3. Nf3 e6 4. e3 h6 5. g3 Nf6 6. Bg2 Be7 7. O-O O-O 8. d3 c5
+9. Nbd2 Nc6 10. Qe2 Bh7 11. a3 Qc7 12. e4 Rfd8 13. e5 Nd7 14. h4 b5 15. h5 a5
+16. a4 bxa4 17. Rxa4 Nb6 18. Raa1 Nb4 19. Rfc1 a4 20. Ne1 axb3 21. Nxb3 Rxa1 22.
+Rxa1 c4 23. Nd4 cxd3 24. cxd3 Nd7 25. Ndf3 Nc5 26. d4 Ncd3 27. Nxd3 Nxd3 28. Ne1
+Nxb2 29. Qxb2 Rb8 30. Qd2 Bb4 31. Qd1 Qc3 32. Rc1 Qd2 33. Nf3 Qxd1+ 34. Rxd1 Bc3
+35. Rc1 Rb1 36. Rxb1 Bxb1 37. Bh1 Be4 38. Nh2 Bxh1 39. Kxh1 Bxd4 40. f4 Kf8 41.
+Nf3 Bc5 42. Kg2 Ke7 43. Ne1 Kd7 44. g4 Kc6 45. Kf3 Kb5 46. f5 Kc4 47. Ng2 Kd4
+48. Kf4 Be7 49. fxe6 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.09.29"]
+[Round "-"]
+[White "lachesisQ"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "3112"]
+[BlackElo "3246"]
+[TimeControl "180"]
+[EndTime "8:47:21 PDT"]
+[Termination "Hikaru won on time"]
+
+1. b3 b6 2. Bb2 Bb7 3. Nf3 Nf6 4. e3 g6 5. c4 Bg7 6. Be2 O-O 7. O-O d6 8. Nc3 e5
+9. d4 Nbd7 10. Qc2 Re8 11. Rad1 exd4 12. Nxd4 a6 13. Bf3 Bxf3 14. Nxf3 Qe7 15.
+Nd5 Nxd5 16. cxd5 Bxb2 17. Qxb2 a5 18. Qc2 Nc5 19. Rd4 Qf6 20. a3 Qd8 21. h4 Ra7
+22. Rfd1 Qe7 23. Rc4 Qf6 24. b4 Na6 25. Rf4 Qg7 26. Ng5 Re7 27. Ne4 axb4 28.
+Nf6+ Kh8 29. axb4 Nb8 30. g4 Nd7 31. g5 Ne5 32. Rc1 b5 33. Kg2 Nc4 34. Qc3 Ra2
+35. Ra1 Rxa1 36. Qxa1 Nb6 37. Qa6 Qf8 38. Qxb5 Qa8 39. e4 Kg7 40. Qd3 Qa1 41. h5
+Qe5 42. h6+ Kh8 43. Rg4 Nd7 44. Nxd7 Rxd7 45. Qc4 Kg8 46. Qc6 Re7 47. b5 f5 48.
+gxf6 Qxf6 49. Qa8+ Qf8 50. Qxf8+ Kxf8 51. Kf3 Re5 52. Rg1 Ke8 53. Ra1 Rh5 54.
+Ra8+ Kd7 55. Ra7 Rh3+ 56. Kg4 Rb3 57. Rb7 Rb4 58. f3 Rb3 59. Rb8 Ke7 60. Rh8
+Rxb5 61. Rxh7+ Kf6 62. Rd7 Rb1 63. h7 Rg1+ 64. Kf4 Rh1 65. Rxc7 g5+ 66. Ke3 Rh4
+67. Rd7 Ke5 68. Rxd6 Kxd6 69. Kd4 Rxh7 70. e5+ Ke7 71. Ke4 Rh4+ 72. Kf5 Rf4+ 73.
+Kxg5 Rxf3 74. Kg6 Rf1 75. e6 Rd1 76. Kf5 Rxd5+ 77. Ke4 Kxe6 78. Kf4 Re5 0-1
+
+[Event "Speed Chess Championship Super Swiss"]
+[Site "Chess.com"]
+[Date "2020.10.04"]
+[Round "11"]
+[White "lachesisQ"]
+[Black "Hikaru"]
+[Result "1-0"]
+[WhiteElo "3145"]
+[BlackElo "3238"]
+[TimeControl "180"]
+[EndTime "13:42:12 PDT"]
+[Termination "lachesisQ won by resignation"]
+
+1. b3 c5 2. Bb2 d5 3. e3 Nc6 4. Nf3 Nf6 5. Bb5 Bd7 6. O-O e6 7. c4 dxc4 8. bxc4
+Be7 9. Nc3 O-O 10. Ne2 Na5 11. Qc2 Rc8 12. Bxd7 Nxd7 13. d3 a6 14. Ng3 Bf6 15.
+Ne4 Bxb2 16. Qxb2 Qc7 17. Rab1 Rb8 18. Rfc1 h6 19. Nfd2 Rfc8 20. Ng3 Nc6 21.
+Nde4 Nce5 22. Nh5 f6 23. Nf4 Qc6 24. Qe2 Rd8 25. Ng3 Nf8 26. Rd1 b5 27. cxb5
+Rxb5 28. Rbc1 Qb7 29. d4 Rb2 30. dxe5 Rxe2 31. Rxd8 Qb2 32. Nfxe2 Qxe5 33. Rc8
+Qb2 34. a4 Qa3 35. R8xc5 Qxa4 36. Rc8 a5 37. Ra8 Qb4 38. h3 Kh7 39. Rc7 e5 40.
+Re8 a4 41. Ree7 a3 42. Rxg7+ Kh8 43. Nc3 Ne6 44. Rh7+ Kg8 45. Ra7 Qxc3 46. Nf5
+Nc7 47. Rhxc7 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.05"]
+[Round "-"]
+[White "Sibelephant"]
+[Black "Hikaru"]
+[Result "1-0"]
+[WhiteElo "3280"]
+[BlackElo "3368"]
+[TimeControl "60+1"]
+[EndTime "15:51:06 PDT"]
+[Termination "Sibelephant won by resignation"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 a6 4. Nf3 d6 5. d4 Qe7 6. Nc3 Nf6 7. Bc4 exd4 8. Nxd4
+Nxd4 9. Qxd4 Be6 10. O-O-O Bxc4 11. Qxc4 O-O-O 12. g4 Qe6 13. Qd4 Nxg4 14. Rd2
+Kb8 15. Nd5 Ne5 16. Qc3 c6 17. Qa5 Qd7 18. Nb6 Qc7 19. Bxe5 dxe5 20. Rxd8+ Qxd8
+21. Rd1 Ba3+ 22. Qxa3 Qxb6 23. Qe7 c5 24. Qxf7 Rc8 25. Qxg7 c4 26. Qxe5+ Ka8 27.
+Qd4 Qa5 28. Kb1 Qf5 29. e4 Qf3 30. Re1 c3 31. e5 Re8 32. Qe3 Qg2 33. Qxc3 Qxf2
+34. e6 Qxh2 35. e7 Qd6 36. Qg7 h5 37. Qf7 Qd7 38. Re5 h4 39. Re4 h3 40. Rh4 h2
+41. Rxh2 Rxe7 42. Qf8+ Ka7 43. Qf2+ b6 44. Kb2 Qe6 45. Qf4 Qe5+ 46. Qxe5 Rxe5
+47. Rh7+ Kb8 48. Kc3 Rc5+ 49. Kd3 Rg5 50. a4 Rg3+ 51. Kc4 Rg4+ 52. Kd5 Rg2 53.
+Kc6 Rxc2+ 54. Kxb6 Rc8 55. Kxa6 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.18"]
+[Round "-"]
+[White "Hikaru"]
+[Black "Blazinq"]
+[Result "1-0"]
+[WhiteElo "3365"]
+[BlackElo "3014"]
+[TimeControl "60"]
+[EndTime "15:29:29 PDT"]
+[Termination "Hikaru won by resignation"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 Nf6 4. Bb5 Qe7 5. Nf3 e4 6. Nd4 a6 7. Be2 d5 8. d3
+exd3 9. cxd3 Qd8 10. Nxc6 bxc6 11. Qc2 Bd6 12. Qxc6+ Bd7 13. Qc2 O-O 14. Nd2 Re8
+15. Nf3 h6 16. O-O c5 17. d4 Rc8 18. dxc5 Bxc5 19. Bxa6 Rc7 20. Qd1 Bc6 21. Be2
+Ne4 22. Nd4 Ba8 23. Rc1 Qg5 24. Bf3 Bd6 25. Rxc7 Bxc7 26. g3 h5 27. Bg2 h4 28.
+Nf3 Qh6 29. Nxh4 Bb7 30. Nf5 Qe6 31. Nxg7 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.18"]
+[Round "-"]
+[White "Hikaru"]
+[Black "Blazinq"]
+[Result "1-0"]
+[WhiteElo "3369"]
+[BlackElo "3010"]
+[TimeControl "60"]
+[EndTime "15:32:54 PDT"]
+[Termination "Hikaru won by resignation"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 Nf6 4. Bb5 Bd6 5. Na3 Na5 6. Be2 a6 7. c4 O-O 8. Nc2
+Re8 9. Nf3 e4 10. Nfd4 Nc6 11. Nxc6 dxc6 12. d4 exd3 13. Qxd3 Be6 14. O-O Be7
+15. Nd4 Bd7 16. Rad1 c5 17. Nf5 Bxf5 18. Qxf5 Qc8 19. Qc2 Qe6 20. Bf3 Rab8 21.
+Rd2 b6 22. Rfd1 Bd6 23. Bc3 Ng4 24. Bxg4 Qxg4 25. Rd5 Qh4 26. g3 Qh3 27. Qe2 Qe6
+28. Qf3 Qg6 29. h4 h6 30. h5 Qe6 31. Rf5 Re7 32. e4 Rbe8 33. e5 Bxe5 34. Rxe5
+Qh3 35. Rxe7 Rxe7 36. Rd8+ Kh7 37. Qd3+ f5 38. Rh8+ Kxh8 39. Qd8+ 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.18"]
+[Round "-"]
+[White "Hikaru"]
+[Black "Blazinq"]
+[Result "1-0"]
+[WhiteElo "3373"]
+[BlackElo "3006"]
+[TimeControl "60"]
+[EndTime "15:34:56 PDT"]
+[Termination "Hikaru won by resignation"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 Nf6 4. Bb5 Bd6 5. Na3 Na5 6. Be2 a6 7. c4 O-O 8. Nc2
+Re8 9. d4 exd4 10. exd4 b5 11. c5 Bf8 12. Nf3 Bb7 13. O-O Nd5 14. Re1 Nc6 15.
+Qd2 Nce7 16. Bd3 Ng6 17. Rxe8 Qxe8 18. Re1 Qd8 19. Be4 Bc6 20. Ne3 Nxe3 21. Qxe3
+Bxe4 22. Qxe4 Qf6 23. Qxa8 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.18"]
+[Round "-"]
+[White "Hikaru"]
+[Black "Kranke007"]
+[Result "1-0"]
+[WhiteElo "3387"]
+[BlackElo "3201"]
+[TimeControl "60"]
+[EndTime "15:40:11 PDT"]
+[Termination "Hikaru won by checkmate"]
+
+1. b3 g6 2. Bb2 Nf6 3. e4 Bg7 4. e5 Nd5 5. Nf3 Nb6 6. d4 O-O 7. Be2 d6 8. O-O
+Bg4 9. h3 Bxf3 10. Bxf3 Nc6 11. exd6 cxd6 12. c3 Rc8 13. Nd2 e5 14. dxe5 dxe5
+15. Ba3 Re8 16. Ne4 f5 17. Nd6 e4 18. Be2 Bxc3 19. Rc1 Bd4 20. Rxc6 Rxc6 21.
+Nxe8 Nc8 22. Bc4+ Rxc4 23. bxc4 e3 24. fxe3 Bxe3+ 25. Kh1 Qxe8 26. Qd5+ Kg7 27.
+Qxb7+ Kg8 28. Bb2 Nd6 29. Qg7# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.18"]
+[Round "-"]
+[White "Hikaru"]
+[Black "Kranke007"]
+[Result "1-0"]
+[WhiteElo "3379"]
+[BlackElo "3208"]
+[TimeControl "60"]
+[EndTime "15:43:43 PDT"]
+[Termination "Hikaru won by resignation"]
+
+1. b3 c6 2. Bb2 d5 3. e3 Nf6 4. Nf3 g6 5. d4 Bg7 6. Bd3 O-O 7. Nbd2 Bf5 8. O-O
+e6 9. Be2 Nbd7 10. Ne5 h5 11. Nd3 Re8 12. c4 Ne4 13. Rc1 Nxd2 14. Qxd2 Qe7 15.
+cxd5 exd5 16. b4 Rad8 17. b5 cxb5 18. Nf4 Nb6 19. Bxb5 Bd7 20. Bxd7 Qxd7 21. Qd3
+Nc4 22. Bc3 Bh6 23. Ne2 Qg4 24. h3 Qe6 25. Rfe1 b5 26. Bb4 a6 27. Bc5 g5 28. Ng3
+Qg6 29. Nf5 Bf8 30. Rc3 Bxc5 31. dxc5 Ne5 32. Qc2 Nc6 33. Rd1 b4 34. Rb3 a5 35.
+Rb2 a4 36. Nd6 a3 37. Qxg6+ fxg6 38. Rbd2 Re6 39. Rxd5 b3 40. axb3 a2 41. Ra1
+Ra8 42. Rd2 Nb4 43. e4 Re5 44. c6 Rc5 45. Nc4 Rxc6 46. f3 g4 47. hxg4 hxg4 48.
+f4 Rd6 49. Rxd6 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.18"]
+[Round "-"]
+[White "Hikaru"]
+[Black "Kranke007"]
+[Result "1-0"]
+[WhiteElo "3396"]
+[BlackElo "3192"]
+[TimeControl "60"]
+[EndTime "15:50:56 PDT"]
+[Termination "Hikaru won by resignation"]
+
+1. b3 d5 2. Bb2 c5 3. e3 Nc6 4. Nf3 Bd7 5. Bb5 f6 6. Bxc6 Bxc6 7. d4 e6 8. O-O
+Nh6 9. Nbd2 cxd4 10. Nxd4 Bd6 11. Nxe6 Qe7 12. Nd4 O-O 13. Nxc6 bxc6 14. c4 Rae8
+15. cxd5 cxd5 16. Qh5 Be5 17. Rab1 Nf7 18. Nf3 g6 19. Qh4 Bxb2 20. Rxb2 Ne5 21.
+Nxe5 fxe5 22. Qxe7 Rxe7 23. Rd2 Rd8 24. Rfd1 Red7 25. g3 Kf7 26. f4 Ke6 27. fxe5
+Kxe5 28. Rd4 Rc7 29. e4 Rc1 30. Rxc1 Kxd4 31. exd5 Rxd5 32. Rc7 Ke5 33. Rxa7 h5
+34. a4 Ke4 35. Re7+ Kd4 36. Kf2 Kc3 37. Re3+ Kb4 38. h4 Rd4 39. Kf3 Rd2 40. Re6
+Rd3+ 41. Kf4 Kxb3 42. Rxg6 Kxa4 43. Rg5 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.18"]
+[Round "-"]
+[White "Hikaru"]
+[Black "Kranke007"]
+[Result "0-1"]
+[WhiteElo "3372"]
+[BlackElo "3216"]
+[TimeControl "60"]
+[EndTime "16:07:34 PDT"]
+[Termination "Kranke007 won by checkmate"]
+
+1. b3 Nf6 2. Bb2 e6 3. e3 Be7 4. Nf3 O-O 5. d4 d5 6. Bd3 c5 7. Nbd2 cxd4 8. Nxd4
+Nc6 9. Nxc6 bxc6 10. c4 c5 11. cxd5 exd5 12. O-O Bb7 13. Rc1 Rc8 14. Nf3 Ne4 15.
+Qc2 f5 16. Rfd1 Bd6 17. Ba1 Qe7 18. Qb2 Nf6 19. Bxf5 Rce8 20. Qe2 Kh8 21. Re1
+Ne4 22. Bxe4 Qxe4 23. Rcd1 d4 24. Qd3 Qg4 25. h3 Qh5 26. exd4 Rxe1+ 27. Rxe1
+Bxf3 28. gxf3 Qxh3 29. Re5 Bxe5 30. dxe5 Qxf3 31. Qd2 Qg4+ 32. Kf1 Qh3+ 33. Ke2
+Qh5+ 34. Ke3 Qf3# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.18"]
+[Round "-"]
+[White "Hikaru"]
+[Black "Kranke007"]
+[Result "1-0"]
+[WhiteElo "3381"]
+[BlackElo "3207"]
+[TimeControl "60"]
+[EndTime "16:08:43 PDT"]
+[Termination "Hikaru won by resignation"]
+
+1. b3 g6 2. Bb2 Nf6 3. e3 Bg7 4. Nf3 O-O 5. d4 b6 6. Be2 Bb7 7. O-O d6 8. c4
+Nbd7 9. Nc3 Re8 10. Qc2 e5 11. dxe5 dxe5 12. Rad1 Qe7 13. e4 Nc5 14. Nd5 Nxd5
+15. cxd5 Rad8 16. Bb5 Rf8 17. b4 Nd7 18. Qxc7 Qxb4 19. Bxd7 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.18"]
+[Round "-"]
+[White "Hikaru"]
+[Black "Kranke007"]
+[Result "0-1"]
+[WhiteElo "3358"]
+[BlackElo "3230"]
+[TimeControl "60"]
+[EndTime "16:11:42 PDT"]
+[Termination "Kranke007 won by checkmate"]
+
+1. b3 d5 2. Bb2 Nf6 3. Nf3 g6 4. e3 Bg7 5. d4 O-O 6. Bd3 c5 7. dxc5 Nc6 8. Nbd2
+Bf5 9. Bxf5 gxf5 10. O-O e6 11. a3 Qe7 12. b4 a6 13. Nb3 Kh8 14. Nfd4 Rg8 15.
+Nxc6 bxc6 16. Na5 Ne4 17. Bxg7+ Rxg7 18. Nxc6 Qh4 19. Qf3 Nd2 20. Qf4 Rg4 21.
+Qe5+ f6 22. Qd6 Rag8 23. g3 Qh3 24. f3 Rxg3+ 25. hxg3 Rxg3+ 26. Kf2 Qg2+ 27. Ke1
+Qxf1+ 28. Kxd2 Rg2+ 29. Kc3 Qc4+ 30. Kb2 Qxc2# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.18"]
+[Round "-"]
+[White "Hikaru"]
+[Black "Kranke007"]
+[Result "1-0"]
+[WhiteElo "3381"]
+[BlackElo "3207"]
+[TimeControl "60"]
+[EndTime "16:23:33 PDT"]
+[Termination "Hikaru won by resignation"]
+
+1. b3 c5 2. Bb2 Nc6 3. Nf3 d5 4. e3 Nf6 5. Bb5 g6 6. Bxc6+ bxc6 7. O-O Bg7 8. d4
+O-O 9. dxc5 Re8 10. a3 Ba6 11. Re1 Ne4 12. Bxg7 Kxg7 13. Nc3 Nxc3 14. Qd4+ e5
+15. Qxc3 Qf6 16. Rad1 g5 17. Qa5 Bc8 18. Nd2 Bg4 19. f3 Bh5 20. e4 Rad8 21. Nf1
+g4 22. Ng3 Bg6 23. fxg4 dxe4 24. Rxd8 Rxd8 25. Rf1 Qe7 26. Qc3 Rd5 27. b4 Qg5
+28. h3 Qd2 29. Qxd2 Rxd2 30. Re1 Rxc2 31. Nxe4 Ra2 32. Nd6 Rxa3 33. Rxe5 Kf6 34.
+Re1 Kg5 35. Rc1 a6 36. Nc4 Ra2 37. Re1 Kh4 38. Kh2 f6 39. Nd6 Kg5 40. Re3 Rb2
+41. Kg3 Rxb4 42. h4+ Kh6 43. h5 Kg7 44. hxg6 Re4 45. Rxe4 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.18"]
+[Round "-"]
+[White "Hikaru"]
+[Black "Kranke007"]
+[Result "0-1"]
+[WhiteElo "3373"]
+[BlackElo "3215"]
+[TimeControl "60"]
+[EndTime "16:26:34 PDT"]
+[Termination "Kranke007 won by checkmate"]
+
+1. b3 d5 2. Bb2 Nf6 3. Nf3 c5 4. e3 Nc6 5. Bb5 g6 6. Bxc6+ bxc6 7. O-O Bg7 8. d4
+O-O 9. dxc5 Re8 10. a3 Ba6 11. Re1 Qc7 12. Be5 Qd7 13. Nc3 Ng4 14. Bxg7 Kxg7 15.
+h3 Nh6 16. Qd4+ f6 17. Rad1 e5 18. Qa4 Bc8 19. Ne4 Qc7 20. Nd6 Rd8 21. c4 Be6
+22. cxd5 cxd5 23. b4 Nf5 24. Nxf5+ gxf5 25. Nh4 Kh8 26. f4 Rg8 27. Nf3 d4 28.
+fxe5 fxe5 29. exd4 e4 30. Ne5 Bd5 31. Qd7 Qxd7 32. Nxd7 e3 33. Rxe3 Rxg2+ 34.
+Kf1 Rag8 35. Nf6 Rg1+ 36. Ke2 R8g2+ 37. Kd3 Rxd1+ 38. Kc3 Rc1+ 39. Kd3 Bc4# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.18"]
+[Round "-"]
+[White "Hikaru"]
+[Black "Kranke007"]
+[Result "1-0"]
+[WhiteElo "3382"]
+[BlackElo "3206"]
+[TimeControl "60"]
+[EndTime "16:28:15 PDT"]
+[Termination "Hikaru won by resignation"]
+
+1. b3 d5 2. Bb2 Nf6 3. Nf3 g6 4. e3 Bg7 5. d4 O-O 6. Bd3 c5 7. dxc5 Nc6 8. a3 a5
+9. O-O Bg4 10. Bb5 Nd7 11. Bxg7 Kxg7 12. Qxd5 Bxf3 13. Qxf3 Nxc5 14. Bxc6 bxc6
+15. Rd1 Qc7 16. Nd2 Rfd8 17. Nc4 Ne6 18. a4 Qa7 19. Qe4 Qc5 20. Qe5+ 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.18"]
+[Round "-"]
+[White "Hikaru"]
+[Black "Kranke007"]
+[Result "1-0"]
+[WhiteElo "3369"]
+[BlackElo "3219"]
+[TimeControl "60"]
+[EndTime "16:35:03 PDT"]
+[Termination "Hikaru won by resignation"]
+
+1. b3 d5 2. Bb2 Nf6 3. Nf3 g6 4. e3 Bg7 5. d4 O-O 6. Bd3 c5 7. dxc5 Bg4 8. Nbd2
+Bxf3 9. Nxf3 Nc6 10. a3 Qc7 11. b4 a6 12. O-O e5 13. Be2 Rad8 14. Qc1 d4 15.
+exd4 exd4 16. Rd1 Nd5 17. Bc4 Nc3 18. Bxc3 dxc3 19. Rxd8 Rxd8 20. Qe3 a5 21. Rb1
+Ne5 22. Nxe5 Bxe5 23. g3 Rd2 24. Bd3 axb4 25. axb4 Bf6 26. Re1 Kg7 27. h4 Qd7
+28. Qf3 Bd4 29. Rf1 Qe6 30. Qe4 Qxe4 31. Bxe4 f5 32. Bd3 Kf6 33. Kg2 h6 34. Kf3
+g5 35. hxg5+ hxg5 36. g4 fxg4+ 37. Kxg4 Rxf2 38. Rh1 Rf4+ 39. Kg3 Be5 40. Kg2 g4
+41. Rh6+ Kg5 42. Re6 Bd4 43. Re2 Kh4 44. Be4 Bf6 45. Bxb7 Rxb4 46. c6 Rb2 47. c7
+1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.18"]
+[Round "-"]
+[White "Hikaru"]
+[Black "Kranke007"]
+[Result "1-0"]
+[WhiteElo "3379"]
+[BlackElo "3209"]
+[TimeControl "60"]
+[EndTime "16:38:34 PDT"]
+[Termination "Hikaru won by resignation"]
+
+1. b3 a5 2. Bb2 a4 3. Nf3 a3 4. Nxa3 Nf6 5. c4 e5 6. Nc2 e4 7. Nfd4 Nc6 8. Nxc6
+dxc6 9. e3 Bd6 10. Be2 h5 11. h3 Bf5 12. d4 Qd7 13. Qd2 Rh6 14. a4 Rg6 15. g4
+Be6 16. O-O-O hxg4 17. hxg4 O-O-O 18. d5 cxd5 19. cxd5 Nxd5 20. Qa5 Kb8 21. Rxd5
+b6 22. Rxd6 Qxd6 23. Qc3 Bxg4 24. Bxg4 Rxg4 25. Nd4 Rg6 26. Kb1 Qd5 27. Rc1 c5
+28. Nb5 Rg2 29. Rc2 Rg1+ 30. Ka2 Qd1 31. Rc1 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.18"]
+[Round "-"]
+[White "Hikaru"]
+[Black "Kranke007"]
+[Result "0-1"]
+[WhiteElo "3371"]
+[BlackElo "3217"]
+[TimeControl "60"]
+[EndTime "16:41:25 PDT"]
+[Termination "Kranke007 won by resignation"]
+
+1. b3 Nf6 2. Bb2 e6 3. Nf3 Be7 4. e3 O-O 5. d4 d5 6. Bd3 c5 7. O-O Nc6 8. Nbd2
+cxd4 9. Nxd4 Qc7 10. Nxc6 bxc6 11. c4 Bb7 12. Qc2 dxc4 13. Nxc4 Rad8 14. Rad1 c5
+15. Be5 Qc6 16. f3 Nd5 17. Bxh7+ Kh8 18. Na5 Qa6 19. Nxb7 Qxb7 20. Be4 Qb4 21.
+Qf2 Kg8 22. Ba1 Nc3 23. Bxc3 Qxc3 24. Rc1 Qe5 25. Bb1 Rd6 26. f4 Qf6 27. e4 Qd4
+28. e5 Qxf2+ 29. Rxf2 Rd4 30. g3 Rfd8 31. Kg2 Rd2 32. Rc2 Rd1 33. Rb2 g5 34. f5
+c4 35. fxe6 fxe6 36. bxc4 Bc5 37. Rf6 g4 38. Rg6+ Kf7 39. Rxg4 R8d2+ 40. Rxd2
+Rxd2+ 41. Kf3 Rf2+ 42. Ke4 Re2+ 43. Kd3 Rxh2 44. Rf4+ Ke7 45. Bc2 Rg2 46. Rf3
+Bb4 47. Bb3 Rd2+ 48. Ke4 Bc5 49. Rd3 Re2+ 50. Kf4 Re1 51. g4 Rf1+ 52. Rf3 Rg1
+53. Kg5 Bb4 54. Kh5 Bd2 55. Rh3 Kf7 56. c5 Kg7 57. Bc2 Re1 58. g5 Rxe5 59. Rg3
+Be1 60. Rf3 Re2 61. Bd3 Rh2+ 62. Rh3 Rxh3+ 63. Kg4 Rxd3 64. g6 Rd4+ 65. Kg5 Rc4
+66. Kh5 Rxc5+ 67. Kg4 Ra5 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.18"]
+[Round "-"]
+[White "Hikaru"]
+[Black "Kranke007"]
+[Result "1/2-1/2"]
+[WhiteElo "3372"]
+[BlackElo "3215"]
+[TimeControl "60"]
+[EndTime "16:45:11 PDT"]
+[Termination "Game drawn - insufficient material"]
+
+1. b3 d5 2. Bb2 Nf6 3. Nf3 g6 4. e3 Bg7 5. d4 O-O 6. Be2 c5 7. dxc5 Nc6 8. O-O
+Qc7 9. a3 e5 10. b4 Ng4 11. h3 e4 12. Bxg7 exf3 13. hxg4 fxe2 14. Qxe2 Kxg7 15.
+Nc3 Qe5 16. Qd2 Bxg4 17. Nxd5 Rad8 18. c4 h5 19. f4 Qe4 20. Qc3+ f6 21. f5 Bxf5
+22. b5 Ne5 23. Rf4 Qd3 24. Rc1 Rfe8 25. e4 Qxc3 26. Rxc3 Be6 27. Nxf6 Rd1+ 28.
+Kf2 Red8 29. Nd5 g5 30. Ke2 Rd4 31. Rf1 Rxc4 32. Rxc4 Nxc4 33. Rc1 Nxa3 34. c6
+Nxb5 35. cxb7 Bxd5 36. exd5 Rb8 37. Rc5 Rxb7 38. d6 Nxd6 39. Rxg5+ Kf6 40. Rxh5
+a6 41. Ra5 Ra7 42. Kd3 Nb7 43. Rh5 a5 44. Kc2 a4 45. Rh7 Ke6 46. g4 Kd5 47. g5
+Ke5 48. g6 Kf6 49. Rc7 Kxg6 50. Kb2 Kf6 51. Ka3 Ke6 52. Rc4 Kd5 53. Rxa4 Na5 54.
+Kb4 Nc6+ 55. Ka3 Rf7 56. Rh4 Rf3+ 57. Ka4 Kc5 58. Rh5+ Kc4 59. Rh4+ Nd4 60. Rh8
+Rf7 61. Rc8+ Nc6 62. Rxc6+ Kd5 63. Rb6 Ke5 64. Rb5+ Ke4 65. Rb4+ Kf3 66. Rb5 Ke4
+67. Rb4+ Ke3 68. Rb5 Rf4+ 69. Rb4 Rxb4+ 70. Kxb4 1/2-1/2
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.18"]
+[Round "-"]
+[White "Hikaru"]
+[Black "Kranke007"]
+[Result "1-0"]
+[WhiteElo "3366"]
+[BlackElo "3221"]
+[TimeControl "60"]
+[EndTime "16:48:02 PDT"]
+[Termination "Hikaru won by resignation"]
+
+1. b3 d5 2. Bb2 Nf6 3. Nf3 g6 4. e3 Bg7 5. d4 O-O 6. c4 c5 7. dxc5 Nc6 8. Nbd2
+dxc4 9. Bxc4 Qa5 10. a3 Qxc5 11. Rc1 Qh5 12. h3 Bg4 13. Be2 Bxf3 14. Nxf3 Rad8
+15. Qc2 Qf5 16. Qxf5 gxf5 17. b4 e6 18. O-O Ne4 19. Bxg7 Kxg7 20. Bb5 Ne7 21.
+Rc7 Nd5 22. Rxb7 Nd6 23. Bc6 Nxb7 24. Bxb7 Rd7 25. Bc6 Rd6 26. b5 Ne7 27. Ne5 f6
+28. Nc4 Rd3 29. a4 Rc3 30. Na5 Ra3 31. Nb7 Nxc6 32. bxc6 Rxa4 33. Nc5 Rf4 34.
+Nxe6+ 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.18"]
+[Round "-"]
+[White "Hikaru"]
+[Black "Kranke007"]
+[Result "0-1"]
+[WhiteElo "3354"]
+[BlackElo "3233"]
+[TimeControl "60"]
+[EndTime "16:54:53 PDT"]
+[Termination "Kranke007 won by resignation"]
+
+1. b3 d5 2. Bb2 Nf6 3. Nf3 c5 4. e3 Nc6 5. d4 cxd4 6. Nxd4 g6 7. Nxc6 bxc6 8. c4
+Bg7 9. Be2 O-O 10. O-O Bf5 11. Nc3 Qd7 12. Na4 Rad8 13. Rc1 Rfe8 14. Be5 dxc4
+15. Qxd7 Nxd7 16. Bxg7 Kxg7 17. Rxc4 Ne5 18. Rc5 Rd2 19. Re1 Red8 20. h3 Nd3 21.
+Bxd3 Bxd3 22. Rxc6 Rxa2 23. Rd1 Be4 24. Rxd8 Bxc6 25. Nc5 Rc2 26. Nd3 Rd2 27.
+Rd4 a5 28. Nc5 Rxd4 29. exd4 Kf6 30. f3 e5 31. dxe5+ Kxe5 32. b4 a4 33. Kf2 Kd4
+0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.18"]
+[Round "-"]
+[White "Hikaru"]
+[Black "Kranke007"]
+[Result "1-0"]
+[WhiteElo "3364"]
+[BlackElo "3223"]
+[TimeControl "60"]
+[EndTime "16:56:19 PDT"]
+[Termination "Hikaru won by resignation"]
+
+1. b3 Nf6 2. Bb2 d5 3. e3 c5 4. Nf3 Nc6 5. d4 a6 6. dxc5 g6 7. a3 Bg7 8. b4 O-O
+9. c4 Bg4 10. Be2 Bxf3 11. Bxf3 dxc4 12. Qxd8 Rfxd8 13. Nd2 Nd5 14. Bxg7 c3 15.
+Nc4 Kxg7 16. Bxd5 Rxd5 17. Nb6 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.18"]
+[Round "-"]
+[White "Hikaru"]
+[Black "Kranke007"]
+[Result "1-0"]
+[WhiteElo "3368"]
+[BlackElo "3219"]
+[TimeControl "60"]
+[EndTime "17:00:59 PDT"]
+[Termination "Hikaru won by resignation"]
+
+1. b3 c5 2. Bb2 Nf6 3. Nf3 g6 4. e3 Bg7 5. d4 O-O 6. Bd3 Nc6 7. dxc5 Qa5+ 8.
+Nbd2 Qxc5 9. a3 d5 10. b4 Qd6 11. c4 Bg4 12. c5 Qc7 13. O-O Rad8 14. h3 Bxf3 15.
+Nxf3 e5 16. b5 e4 17. bxc6 exf3 18. Qxf3 Qxc6 19. Rab1 Ne4 20. Bxg7 Kxg7 21.
+Bxe4 dxe4 22. Qe2 Rd3 23. Qb2+ Kg8 24. Qxb7 Qxc5 25. Qxe4 Rxa3 26. Rb7 a5 27.
+Rd1 Rc3 28. Rdd7 Rc4 29. Qf3 Rc1+ 30. Kh2 Qe5+ 31. g3 Qe6 32. Ra7 a4 33. Rd4 Qc6
+34. Qxc6 Rxc6 35. Rdxa4 Kg7 36. Kg2 Rf6 37. Re4 Rb8 38. Rf4 Rxf4 39. gxf4 Rb2
+40. Kf3 h5 41. e4 Rb3+ 42. Kg2 Rb4 43. f3 Rb3 44. h4 Rb2+ 45. Kg3 Rc2 46. e5 Kf8
+47. Ra6 Ke7 48. f5 gxf5 49. Kf4 Rc4+ 50. Kxf5 Rxh4 51. Ra7+ Kf8 52. f4 Rg4 53.
+Ra6 Kg7 54. Ra1 Rg1 55. Rxg1+ 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.18"]
+[Round "-"]
+[White "Hikaru"]
+[Black "Kranke007"]
+[Result "1-0"]
+[WhiteElo "3377"]
+[BlackElo "3210"]
+[TimeControl "60"]
+[EndTime "17:17:41 PDT"]
+[Termination "Hikaru won by resignation"]
+
+1. b3 d5 2. Bb2 Nf6 3. Nf3 g6 4. e3 Bg7 5. d4 O-O 6. Be2 c5 7. dxc5 Nc6 8. O-O
+Qc7 9. Nc3 Bg4 10. Nb5 Qd7 11. Nbd4 Ne4 12. Nxc6 Bxb2 13. Nfe5 Qc7 14. Nxg4 Qxc6
+15. Bf3 f5 16. Rb1 Bg7 17. c4 Qxc5 18. cxd5 Nc3 19. Qc2 fxg4 20. Bxg4 Kh8 21.
+Rbc1 Qb4 22. Be6 Rad8 23. Qd3 Qa5 24. e4 Nxa2 25. Rc4 Nb4 26. Qd2 Nc6 27. Qxa5
+Nxa5 28. Rc7 Nxb3 29. Rxe7 Nc5 30. Bg4 Rde8 31. Rc7 Nxe4 32. Rxb7 Bd4 33. g3
+Nxf2 34. Be6 Nd1+ 35. Kg2 Ne3+ 36. Kh3 Rxf1 37. Bd7 Nxd5 38. Bxe8 Nf6 39. Bc6
+Rf2 40. Bg2 g5 41. Rb4 Rd2 42. Bf3 h5 43. Bxh5 Nxh5 44. Kg4 Ng7 45. Kxg5 Bc3 46.
+Rc4 Kh7 47. Rxc3 Rd5+ 48. Kf4 Rd3 49. Rxd3 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.18"]
+[Round "-"]
+[White "Hikaru"]
+[Black "Kranke007"]
+[Result "1-0"]
+[WhiteElo "3385"]
+[BlackElo "3202"]
+[TimeControl "60"]
+[EndTime "17:19:31 PDT"]
+[Termination "Hikaru won by resignation"]
+
+1. b3 Nf6 2. Bb2 e5 3. Nf3 Nc6 4. e3 e4 5. Nd4 d5 6. d3 Bd6 7. Nd2 O-O 8. Nxc6
+bxc6 9. dxe4 dxe4 10. Be2 Qe7 11. O-O Rd8 12. Qc1 h5 13. h3 h4 14. Nc4 Bf5 15.
+Nxd6 cxd6 16. Rd1 Nd7 17. c4 Ne5 18. Qc3 Qg5 19. Kh1 Nd3 20. Bxd3 exd3 21. Rd2
+d5 22. Qe5 dxc4 23. bxc4 f6 24. Qc5 Be4 25. Qxg5 fxg5 26. f3 Bg6 27. Rad1 Rab8
+28. Bc3 Bf7 29. Rxd3 Rxd3 30. Rxd3 Rb7 31. c5 Bxa2 32. e4 Kh7 33. Bd2 Bc4 34.
+Rd4 a5 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.18"]
+[Round "-"]
+[White "Hikaru"]
+[Black "Kranke007"]
+[Result "0-1"]
+[WhiteElo "3355"]
+[BlackElo "3232"]
+[TimeControl "60"]
+[EndTime "17:25:57 PDT"]
+[Termination "Kranke007 won by resignation"]
+
+1. b3 c5 2. Bb2 Nf6 3. e3 g6 4. Nf3 Bg7 5. d4 O-O 6. dxc5 Qa5+ 7. c3 Qxc5 8. Ba3
+Qc7 9. Bxe7 Re8 10. Bxf6 Bxf6 11. Qd2 Nc6 12. Be2 d5 13. O-O Bg4 14. Nd4 Bxd4
+15. Bxg4 Bg7 16. Rc1 Rad8 17. Na3 Qa5 18. Qb2 d4 19. exd4 Nxd4 20. Nc4 Qg5 21.
+Ne3 h5 22. Bd1 Nf5 23. Bf3 Nxe3 24. fxe3 Rxe3 25. Kh1 h4 26. h3 Qg3 27. Rd1
+Rxd1+ 28. Rxd1 Re1+ 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.18"]
+[Round "-"]
+[White "Kranke007"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "3232"]
+[BlackElo "3355"]
+[TimeControl "60"]
+[EndTime "17:29:01 PDT"]
+[Termination "Hikaru won by resignation"]
+
+1. b3 d5 2. Bb2 Nf6 3. g3 c5 4. Bg2 Nc6 5. Nf3 g6 6. O-O Bg7 7. c4 d4 8. e3 O-O
+9. exd4 cxd4 10. Na3 Nd7 11. Re1 Nc5 12. Nb5 Nd3 13. Qb1 Nxe1 14. Qxe1 a6 15.
+Na3 Nb4 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.18"]
+[Round "-"]
+[White "Hikaru"]
+[Black "Kranke007"]
+[Result "0-1"]
+[WhiteElo "3364"]
+[BlackElo "3223"]
+[TimeControl "60"]
+[EndTime "17:35:19 PDT"]
+[Termination "Kranke007 won by resignation"]
+
+1. b3 g6 2. Bb2 Nf6 3. e3 Bg7 4. Nf3 O-O 5. d4 Ne8 6. Be2 c5 7. O-O cxd4 8. Nxd4
+d5 9. c4 Nc6 10. Nxc6 bxc6 11. Bxg7 Nxg7 12. Nc3 Bb7 13. Na4 e5 14. Nc5 Qe7 15.
+Nxb7 Qxb7 16. c5 Rad8 17. Qc2 Ne6 18. a3 f5 19. b4 f4 20. e4 Nd4 21. Qa2 f3 22.
+Bxf3 Nxf3+ 23. gxf3 Rxf3 24. exd5 cxd5 25. Rac1 e4 26. c6 Qc7 27. Rc5 Rf5 28.
+Qe2 Rdf8 29. Qg4 Qe5 30. c7 Rg5 31. c8=Q Rxc8 32. Rxc8+ Kg7 33. Qg3 Rxg3+ 34.
+hxg3 e3 35. Re1 exf2+ 36. Kxf2 Qf5+ 0-1

@@ -1,0 +1,1023 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2018.11.15"]
+[Round "-"]
+[White "Hikaru"]
+[Black "Firouzja2003"]
+[Result "0-1"]
+[WhiteElo "3147"]
+[BlackElo "3145"]
+[TimeControl "60"]
+[EndTime "9:35:13 PST"]
+[Termination "Firouzja2003 won by resignation"]
+
+1. e4 Nf6 2. Nf3 Nxe4 3. d4 Nf6 4. Bd3 e6 5. O-O d5 6. Re1 c5 7. c3 Nc6 8. Be3
+cxd4 9. Nxd4 Bd6 10. Nd2 O-O 11. Bg5 h6 12. Bh4 e5 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2018.11.17"]
+[Round "-"]
+[White "Hikaru"]
+[Black "1random"]
+[Result "1-0"]
+[WhiteElo "3164"]
+[BlackElo "2867"]
+[TimeControl "60"]
+[EndTime "23:22:12 PST"]
+[Termination "Hikaru won on time"]
+
+1. e4 d5 2. exd5 Nf6 3. Nc3 Nxd5 4. Bc4 c6 5. Nf3 Bg4 6. h3 Bxf3 7. Qxf3 e6 8.
+O-O Be7 9. d4 O-O 10. Qg3 Bd6 11. Qg4 Nf6 12. Qe2 Nbd7 13. Bg5 h6 14. Bh4 Qc7
+15. Rad1 Nb6 16. Bb3 Nbd5 17. Bxd5 Nxd5 18. Ne4 Be7 19. Bg3 Qd8 20. c4 Nf6 21.
+f3 Rc8 22. Rd3 b5 23. c5 Nd5 24. Qd2 a5 25. Bd6 Bxd6 26. Nxd6 Ra8 27. f4 Nb4 28.
+Rg3 Qf6 29. f5 e5 30. dxe5 Qxe5 31. Kh2 Kh7 32. f6 g6 33. a3 Nd5 34. Re1 Qxf6
+35. Rf3 Qg7 36. Nxb5 cxb5 37. Qxd5 Rad8 38. Qb3 b4 39. axb4 axb4 40. Qxb4 Rb8
+41. Qf4 Rxb2 42. Re7 Kg8 43. c6 Rc2 44. c7 h5 45. Qe4 Rc5 46. Qe3 Rc6 47. Qe4
+Rc5 48. Qb4 Rc6 49. Qb7 Rc1 50. Qe4 Rc5 51. Qf4 Kh7 52. Rxf7 Rxf7 53. Qxf7 Qxf7
+54. Rxf7+ Kh6 55. Rd7 Kg5 56. Rd5+ Rxd5 57. c8=Q Rf5 58. Qc7 Kh6 59. Qd8 Rf7 60.
+Qh8+ Rh7 61. Qe5 Rg7 62. Qf4+ Kh7 63. h4 Rf7 64. Qg5 Rf5 65. Qd8 Kg7 66. Qd4+
+Rf6 67. Qc4 Rf7 68. Qc3+ Kh7 69. Qb2 Rg7 70. Qd2 Rf7 71. Qg5 Rg7 72. Qf6 Rf7 73.
+Qxf7+ Kh6 74. Qf6 Kh7 75. Qe5 g5 76. Qd4 Kh6 77. Qd3 g4 78. Qd2+ Kh7 79. Qd1 g3+
+80. Kg1 Kg6 81. Qc1 Kh7 82. Qb1+ Kh6 83. Qc2 Kg7 84. Qd3 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2018.11.17"]
+[Round "-"]
+[White "1random"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "2865"]
+[BlackElo "3166"]
+[TimeControl "60"]
+[EndTime "23:23:24 PST"]
+[Termination "Hikaru won by resignation"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 cxd6 6. Nc3 g6 7. Be3 Bg7 8. Rc1
+Nc6 9. b3 O-O 10. d5 Ne5 11. Be2 e6 12. f4 Ned7 13. dxe6 fxe6 14. Qxd6 e5 15. c5
+exf4 16. Bxf4 Nxc5 17. Qxd8 Rxd8 18. Bc7 Re8 19. Bxb6 Nd3+ 20. Kd2 Nxc1 21. Bc4+
+Kh8 22. Nf3 axb6 23. Ng5 Bh6 24. h4 Nxa2 25. Kc2 Bxg5 26. hxg5 Nxc3 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2018.11.20"]
+[Round "-"]
+[White "Firouzja2003"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "3127"]
+[BlackElo "3204"]
+[TimeControl "60"]
+[EndTime "12:03:53 PST"]
+[Termination "Hikaru won by resignation"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nb6 4. Nf3 d6 5. Be2 Nc6 6. e6 Bxe6 7. c4 Bxc4 8. Bxc4
+Nxc4 9. d5 N6e5 10. Nd4 Nb6 11. Nc3 c5 12. dxc6 Nxc6 13. O-O e5 14. Nf5 g6 15.
+Ne3 Bg7 16. Ned5 O-O 17. Be3 Nd4 18. Rc1 Rc8 19. Nxb6 axb6 20. Bxd4 exd4 21. Nd5
+Rc5 22. Qb3 b5 23. Rce1 Re8 24. g3 Re5 25. Nf4 Qe8 26. Nd3 h5 27. Rxe5 Bxe5 28.
+Nxc5 dxc5 29. Re1 c4 30. Qf3 Qe6 31. Qxb7 d3 32. Qxb5 d2 33. Rd1 Bxb2 34. Qb8+
+Kh7 35. Qxb2 Qe1+ 36. Kg2 Qxd1 37. Qf6 Qg1+ 38. Kxg1 d1=Q+ 39. Kg2 Qd5+ 40. Qf3
+Qd7 41. a4 Qc7 42. a5 c3 43. Qf4 Qxf4 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2018.11.20"]
+[Round "-"]
+[White "PaulfromSPb"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "2573"]
+[BlackElo "3148"]
+[TimeControl "60"]
+[EndTime "12:38:02 PST"]
+[Termination "Hikaru won by checkmate"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nb6 4. Nf3 d6 5. exd6 cxd6 6. Bd3 g6 7. O-O Bg7 8. c3
+O-O 9. Re1 Nc6 10. Bg5 h6 11. Bh4 g5 12. Bg3 f5 13. h3 e6 14. Nbd2 Nd5 15. Bc4
+Nce7 16. Qb3 Kh8 17. Nf1 f4 18. Bh2 a6 19. N1d2 b5 20. Bd3 Nc7 21. Bb1 Bb7 22.
+Qc2 Nf5 23. Ne4 Qd7 24. Nfd2 Rae8 25. Nf3 e5 26. dxe5 Bxe5 27. a4 Bg7 28. Ned2
+Rxe1+ 29. Nxe1 Re8 30. Nef3 Rf8 31. Ba2 bxa4 32. Bc4 Bd5 33. Bd3 Bc6 34. Re1 Ne7
+35. Nd4 Ng8 36. Bc4 Nf6 37. Ne6 Nxe6 38. Bxe6 Qd8 39. Bf5 Re8 40. Rxe8+ Qxe8 41.
+Qd1 Qe5 42. Bd3 Qd5 43. Bxa6 Qxg2# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2018.11.20"]
+[Round "-"]
+[White "Firouzja2003"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "3139"]
+[BlackElo "3147"]
+[TimeControl "60"]
+[EndTime "12:44:38 PST"]
+[Termination "Hikaru won on time"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nb6 4. a4 a5 5. Nf3 d5 6. Be2 Bg4 7. O-O e6 8. h3 Bxf3
+9. Bxf3 c5 10. c3 Nc6 11. Na3 cxd4 12. cxd4 Bxa3 13. Rxa3 O-O 14. Be2 f5 15. Rg3
+Kh8 16. b3 Nb4 17. Bg5 Qd7 18. Qd2 Rfc8 19. Qf4 Qf7 20. Qh4 Rc7 21. Bh5 Qf8 22.
+Bg6 h6 23. Bf4 Rac8 24. Bh5 Nc6 25. Rd1 Ne7 26. Bf3 Ng8 27. Rg6 Qf7 28. Bh5 Qe7
+29. Qg3 Rc3 30. Rd3 Rxd3 31. Qxd3 Nd7 32. Qf3 Nf8 33. Rg3 g5 34. Bd2 f4 35. Rg4
+Rc2 36. Qd3 Rc8 37. h4 Qh7 38. Qh3 Qb1+ 39. Kh2 Nh7 40. hxg5 hxg5 41. Bxf4 Qf5
+42. Bxg5 Nxg5 43. Rxg5 Qxg5 44. Bg6+ Nh6 45. Bh5 Rg8 46. f3 Qf5 47. Bg4 Qg5 48.
+Bxe6 Qf4+ 49. g3 Qd2+ 50. Qg2 Qxg2+ 51. Kxg2 Rf8 52. Bxd5 Nf5 53. Be4 Nxd4 54.
+g4 Ne6 55. Kf2 Nc5 56. Ke3 Nxb3 57. Bd5 Nc5 58. Kd4 Ne6+ 59. Bxe6 Rxf3 60. Bf5
+Rf1 61. Kd5 Rd1+ 62. Ke6 Re1 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2018.11.20"]
+[Round "-"]
+[White "Raja3401"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "2634"]
+[BlackElo "3149"]
+[TimeControl "60"]
+[EndTime "12:50:20 PST"]
+[Termination "Hikaru won by resignation"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 Nb6 4. Nf3 d6 5. d4 Nc6 6. exd6 exd6 7. Be2 Be7 8.
+O-O O-O 9. h3 Bf5 10. a3 Bf6 11. Be3 Re8 12. Bb5 a6 13. Bd3 Bg6 14. Re1 d5 15.
+Bxg6 hxg6 16. Qd3 Qd7 17. b3 Ne7 18. Bf4 Nf5 19. Ne5 Bxe5 20. Bxe5 Re6 21. Bh2
+Rae8 22. Kf1 Nd6 23. Rxe6 Rxe6 24. Re1 Rxe1+ 25. Kxe1 Nf5 26. Be5 Qe7 27. Kf1 c6
+28. Bf4 Qxa3 29. Qe2 Qa1+ 30. Nd1 Nxd4 31. Qe8+ Kh7 32. Ke1 Nxc2+ 33. Kd2 Qd4+
+34. Kxc2 Qxf4 35. Ne3 Qxf2+ 36. Kd3 d4 37. Ng4 Qf5+ 38. Kxd4 Nd5 39. Ne5 Nf6 40.
+Nxf7 Nxe8 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2018.11.20"]
+[Round "-"]
+[White "intermaster2017"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "2273"]
+[BlackElo "3137"]
+[TimeControl "60"]
+[EndTime "13:00:01 PST"]
+[Termination "Hikaru won by resignation"]
+
+1. e4 Nf6 2. Nc3 d5 3. exd5 Nxd5 4. Nxd5 Qxd5 5. Qf3 Qxf3 6. Nxf3 Nc6 7. d4 Bg4
+8. c3 Bxf3 9. gxf3 O-O-O 10. Bf4 e6 11. O-O-O Bd6 12. Bxd6 Rxd6 13. f4 Ne7 14.
+Bd3 g6 15. Be4 Nd5 16. Bxd5 Rxd5 17. Rde1 Rf5 18. Re4 Rh5 19. h4 Rd8 20. Kd2
+Rdd5 21. Ke3 Ra5 22. a3 Rhb5 23. b4 Rxa3 24. Kd3 Rxb4 25. h5 Rbb3 26. hxg6 Rxc3+
+27. Kd2 hxg6 28. Rh7 Rh3 29. Rxf7 Ra2+ 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2018.11.20"]
+[Round "-"]
+[White "PaulfromSPb"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "2562"]
+[BlackElo "3112"]
+[TimeControl "60"]
+[EndTime "13:23:41 PST"]
+[Termination "Hikaru won by resignation"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nb6 4. Nf3 d6 5. exd6 exd6 6. c4 Be7 7. Nc3 O-O 8. Be2
+Nc6 9. b3 Bg4 10. Be3 Bf6 11. h3 Bh5 12. Rc1 d5 13. c5 Nc8 14. O-O Bxf3 15. Bxf3
+N8e7 16. g4 g6 17. Bg2 Bg7 18. Qd2 f5 19. f4 fxg4 20. hxg4 Qd7 21. Qe2 Nxd4 22.
+Qd3 Ndc6 23. Nxd5 Qxg4 24. Nxe7+ Nxe7 25. Qd1 Qxd1 26. Rcxd1 c6 27. Rd7 Nf5 28.
+Bf2 Rf7 29. Rxf7 Kxf7 30. Rd1 Re8 31. Rd7+ Re7 32. Rd8 Ne3 33. Bh3 Bf6 34. Rb8
+Nd5 35. Bc8 Nxf4 36. Rxb7 Nh3+ 37. Kg2 Nxf2 38. Kxf2 Bd4+ 39. Kf3 Bxc5 40. Rb8
+Re8 41. Rb7+ Re7 42. Rb8 h5 43. Bh3 Re3+ 44. Kg2 Rg3+ 45. Kxg3 Bd6+ 46. Kf3 Bxb8
+47. Bg2 g5 48. Kf2 c5 49. Bd5+ Kf6 50. Bc6 g4 51. Be8 h4 52. Bd7 Kg5 53. Kg2 h3+
+54. Kf2 g3+ 55. Kf3 Kh4 56. Bc8 g2 57. Kf2 Bh2 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2018.11.20"]
+[Round "-"]
+[White "Multivitamin73"]
+[Black "Hikaru"]
+[Result "1-0"]
+[WhiteElo "2738"]
+[BlackElo "3111"]
+[TimeControl "60"]
+[EndTime "13:51:56 PST"]
+[Termination "Multivitamin73 won by resignation"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Nc6 5. c4 Nb6 6. Nc3 Bg4 7. Be2 dxe5 8. d5
+Bxf3 9. Bxf3 Nd4 10. c5 Nd7 11. Be3 Nxc5 12. Bxd4 exd4 13. Qxd4 e5 14. Qxe5+ Qe7
+15. Qxe7+ Bxe7 16. O-O-O O-O-O 17. Rhe1 Bd6 18. Nb5 a6 19. Nxd6+ Rxd6 20. Rd4
+Kd8 21. Kc2 Nd7 22. Rg4 g6 23. Rf4 f5 24. h4 Re8 25. Rxe8+ Kxe8 26. h5 Nf6 27.
+hxg6 hxg6 28. Rh4 Nxd5 29. Rh8+ Kd7 30. Rh7+ Kc6 31. Rg7 Kc5 32. Bxd5 Kxd5 33.
+Rxc7 b5 34. Kc3 Ke4 35. a4 bxa4 36. Rc4+ Kd5 37. Rxa4 Rc6+ 38. Kd3 Rb6 39. Rd4+
+Ke5 40. Kc3 Rxb2 41. f4+ 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2018.11.22"]
+[Round "-"]
+[White "FelipeB78"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "1597"]
+[BlackElo "3057"]
+[TimeControl "180"]
+[EndTime "17:21:05 PST"]
+[Termination "Hikaru won by resignation"]
+
+1. e4 Nf6 2. Nc3 d5 3. e5 d4 4. exf6 dxc3 5. dxc3 Qxd1+ 6. Kxd1 gxf6 7. Bd3 e5
+8. Be3 Be6 9. Nf3 Nc6 10. Ke2 O-O-O 11. Rad1 f5 12. Bb5 f4 13. Bxc6 Bc4+ 14. Ke1
+Rxd1+ 15. Kxd1 fxe3 16. fxe3 bxc6 17. Nxe5 Bd5 18. Rg1 Bd6 19. Nf3 Rg8 20. Nh4
+Bxh2 21. Rf1 Rg4 22. Nf3 Rxg2 23. Nxh2 Rxh2 24. Kc1 Be4 25. Rxf7 Rxc2+ 26. Kd1
+Rxb2 27. Rf8+ Kb7 28. Re8 Bg6 29. Re7 Rxa2 30. Ke1 a5 31. c4 a4 32. c5 a3 33.
+Rd7 Rb2 34. Rd1 Rb1 35. Rxb1+ Bxb1 36. Kd2 a2 37. Kc3 a1=Q+ 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2018.11.22"]
+[Round "-"]
+[White "schiz00"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "2291"]
+[BlackElo "3058"]
+[TimeControl "180"]
+[EndTime "17:33:15 PST"]
+[Termination "Hikaru won by resignation"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 Nxc3 4. bxc3 d5 5. f4 c5 6. Nf3 Nc6 7. Rb1 e6 8. Bb5
+Bd7 9. O-O a6 10. Be2 Qc7 11. d4 g6 12. Be3 c4 13. Ng5 h6 14. Nh3 O-O-O 15. Bf2
+Be7 16. Qe1 Rdg8 17. Bh4 g5 18. Bg3 g4 19. Nf2 h5 20. f5 Bg5 21. Nd1 h4 22. fxe6
+Bxe6 23. Bf4 g3 24. h3 Be7 25. Ne3 Rd8 26. Bg4 Kb8 27. Bxe6 fxe6 28. Qe2 Qd7 29.
+Ng4 Ka8 30. Qe3 Rdf8 31. Bg5 Qd8 32. Bxe7 Nxe7 33. Rf6 Nf5 34. Qg5 Qa5 35. Rxf8+
+Rxf8 36. Rf1 Qxc3 37. Nh6 Qxd4+ 38. Kh1 Ka7 39. Nxf5 Rxf5 40. Qc1 Rxf1+ 41. Qxf1
+Qxe5 42. Qg1+ d4 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2018.11.22"]
+[Round "-"]
+[White "ClashRoyale12345"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "2405"]
+[BlackElo "3043"]
+[TimeControl "180"]
+[EndTime "17:47:55 PST"]
+[Termination "Hikaru won by resignation"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nb6 4. Nf3 d6 5. exd6 exd6 6. Be2 Be7 7. O-O O-O 8. c4
+Bg4 9. b3 Nc6 10. Nc3 Bf6 11. Be3 d5 12. c5 Nc8 13. h3 Bxf3 14. Bxf3 N8e7 15.
+Qd2 Nf5 16. Nxd5 Bxd4 17. Bxd4 Ncxd4 18. Be4 c6 19. Qd3 g6 20. Bxf5 Qxd5 21. Be4
+Qxc5 22. Rac1 Qb6 23. Rfd1 Rad8 24. Rc4 Nxb3 25. Qe2 Nd4 26. Qe3 Ne6 27. Rxd8
+Rxd8 28. Qxb6 axb6 29. Rb4 b5 30. a4 Rd4 31. Rxd4 Nxd4 32. axb5 Nxb5 33. Kf1 Nd6
+34. Bf3 c5 35. Ke2 b5 36. Kd3 b4 37. Bd5 g5 38. g3 Kg7 39. f3 Kf6 40. Bb3 Ke5
+41. Ba2 f5 42. Bg8 f4 43. g4 h6 44. Ba2 c4+ 45. Bxc4 Nxc4 46. Kxc4 b3 47. Kxb3
+Kd4 48. Kc2 Ke3 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2018.11.22"]
+[Round "-"]
+[White "volcanoexplorer"]
+[Black "Hikaru"]
+[Result "1-0"]
+[WhiteElo "2422"]
+[BlackElo "3002"]
+[TimeControl "180"]
+[EndTime "18:24:12 PST"]
+[Termination "volcanoexplorer won by resignation"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 Nb6 4. d4 d6 5. exd6 exd6 6. Bd3 Be7 7. Nf3 Nc6 8. a3
+O-O 9. h3 Bg4 10. hxg4 g6 11. Be3 Bf6 12. Ne4 Bg7 13. g5 Re8 14. Qd2 d5 15. Nf6+
+Bxf6 16. gxf6 Qxf6 17. O-O-O Nc4 18. Bxc4 dxc4 19. d5 Ne5 20. Bd4 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2018.11.22"]
+[Round "-"]
+[White "RefRefRef"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "2261"]
+[BlackElo "3004"]
+[TimeControl "180"]
+[EndTime "18:44:04 PST"]
+[Termination "Hikaru won by resignation"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nb6 4. Nf3 d6 5. a4 a5 6. Bb5+ c6 7. Bd3 Bg4 8. h3
+Bxf3 9. Qxf3 e6 10. Bf4 dxe5 11. dxe5 N8d7 12. O-O Nd5 13. Bh2 Nb4 14. Be4 Nc5
+15. Rd1 Nxe4 16. Rxd8+ Rxd8 17. Nc3 Nd2 18. Qg4 h5 19. Qg5 Nxc2 20. Rd1 Be7 21.
+Qxg7 Rf8 22. Bf4 Nc4 23. Rxd8+ Kxd8 24. Bh6 Nb4 25. b3 Nb6 26. Qh7 Re8 27. Qxf7
+Nd7 28. f4 Nd3 29. Qxe6 Bc5+ 30. Kh2 Rxe6 31. Ne4 Rxh6 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2018.11.26"]
+[Round "-"]
+[White "Hikaru"]
+[Black "Hampovsky"]
+[Result "1-0"]
+[WhiteElo "3092"]
+[BlackElo "2303"]
+[TimeControl "180"]
+[EndTime "14:04:32 PST"]
+[Termination "Hikaru won by resignation"]
+
+1. e4 Nf6 2. Nc3 d5 3. e5 Nfd7 4. f4 e6 5. Nf3 c5 6. d4 Nc6 7. Be3 Be7 8. Qd2
+O-O 9. O-O-O cxd4 10. Nxd4 Nxd4 11. Bxd4 f6 12. exf6 Bxf6 13. g3 Bxd4 14. Qxd4
+Qf6 15. Bh3 Qxd4 16. Bxe6+ Kh8 17. Rxd4 Nb6 18. Bxc8 Raxc8 19. Nxd5 Rfd8 20.
+Nxb6 axb6 21. Rxd8+ Rxd8 22. Rd1 Re8 23. Rd7 Rb8 24. Rd6 Kg8 25. Rxb6 Kf7 26. a4
+Kf8 27. a5 Ra8 28. b4 Ra7 29. c4 Ke7 30. c5 Kd7 31. f5 Kc7 32. g4 Ra8 33. g5 Rf8
+34. f6 gxf6 35. Rxf6 Rg8 36. h4 Rg7 37. b5 Re7 38. a6 bxa6 39. Rxa6 Re5 40. Ra7+
+Kb8 41. Rxh7 Rxc5+ 42. Kd2 Rxb5 43. g6 Rb2+ 44. Kc3 Rg2 45. g7 Rg3+ 46. Kd4 Rg4+
+47. Ke5 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2018.11.26"]
+[Round "-"]
+[White "ukic10"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "2211"]
+[BlackElo "3092"]
+[TimeControl "180"]
+[EndTime "14:15:38 PST"]
+[Termination "Hikaru won by resignation"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 cxd6 6. Nc3 g6 7. Nf3 Bg7 8. Be3
+Nc6 9. b3 Bg4 10. Be2 d5 11. c5 Nc8 12. O-O O-O 13. h3 Bxf3 14. Bxf3 e6 15. Rb1
+N8e7 16. b4 Nf5 17. Ne2 Nh4 18. Nc3 Nxf3+ 19. Qxf3 Nxd4 20. Bxd4 Bxd4 21. Nb5
+Be5 22. Rfe1 Bb8 23. a4 Qh4 24. Nc3 Qf4 25. Qxf4 Bxf4 26. Re2 a5 27. g3 Bh6 28.
+bxa5 Rxa5 29. Rxb7 Rxc5 30. Nb5 Rd8 31. Ra2 d4 32. Nxd4 Rxd4 33. a5 Rcc4 34. a6
+Ra4 35. Rxa4 Rxa4 36. a7 Bf8 37. Kg2 Kg7 38. Kf3 Bc5 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2018.11.26"]
+[Round "-"]
+[White "nadamson"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "1376"]
+[BlackElo "3092"]
+[TimeControl "180"]
+[EndTime "14:31:27 PST"]
+[Termination "Hikaru won on time"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. exd6 cxd6 6. Nf3 g6 7. Be2 Bg7 8. O-O
+O-O 9. Nc3 Bg4 10. Be3 Nc6 11. d5 Bxf3 12. gxf3 Ne5 13. b3 Nexc4 14. bxc4 Bxc3
+15. Bh6 Bg7 16. Bxg7 Kxg7 17. Kh1 Rc8 18. Rc1 Qd7 19. f4 Qf5 20. Rg1 Qxf4 21.
+Rc3 Nxc4 22. Rf3 Qe5 23. Bxc4 Rxc4 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2018.12.22"]
+[Round "-"]
+[White "Hikaru"]
+[Black "Oleksandr_Bortnyk"]
+[Result "1-0"]
+[WhiteElo "3094"]
+[BlackElo "2867"]
+[TimeControl "180"]
+[EndTime "14:31:57 PST"]
+[Termination "Hikaru won on time"]
+
+1. e4 Nf6 2. Nc3 d5 3. e5 Nfd7 4. d4 c5 5. f4 cxd4 6. Nce2 e6 7. Nxd4 Nc6 8.
+Ngf3 Bc5 9. c3 a6 10. Bd3 Qc7 11. Be3 b5 12. O-O Bb7 13. Qe2 g6 14. a4 b4 15.
+Rfc1 bxc3 16. Rxc3 Qb6 17. Qf2 Nxd4 18. Bxd4 Bxd4 19. Qxd4 Qxd4+ 20. Nxd4 Kd8
+21. Rac1 Re8 22. Rb3 Ra7 23. Bxa6 Rxa6 24. Rxb7 Rxa4 25. Nc6+ Kc8 26. Na5+ Kd8
+27. Rcc7 Nxe5 28. fxe5 Rxa5 29. Rd7+ Kc8 30. Rdc7+ Kd8 31. Rxf7 Kc8 32. Rfc7+
+Kd8 33. Rxh7 Ra1+ 34. Kf2 Rf8+ 35. Ke3 Kc8 36. Rhc7+ Kd8 37. Rg7 Kc8 38. Ra7
+Rxa7 39. Rxa7 Rf5 40. Kd4 Rf2 41. g3 Rxb2 42. Kc5 d4 43. Kxd4 Rd2+ 44. Ke3 Rxh2
+45. Re7 Rh5 46. Rxe6 Kd7 47. Rd6+ Ke7 48. Ke4 Rg5 49. Rd3 Rg4+ 50. Kd5 Ra4 51.
+Rb3 Ra5+ 52. Ke4 Ra4+ 53. Kf3 Ke6 54. Rb6+ Kxe5 55. Rxg6 Kf5 56. Rc6 Ra3+ 57.
+Kg2 Kg4 58. Rc4+ Kg5 59. Kh3 Kg6 60. Rc5 Ra6 61. Kh4 Kf7 62. Kg4 Kg7 63. Rg5+
+Kf7 64. Rf5+ Kg7 65. Kh4 Kg6 66. Rg5+ Kh6 67. Rc5 Kg7 68. Kh5 Rh6+ 69. Kg4 Ra6
+70. Rb5 Kf6 71. Rb4 Kg6 72. Rf4 Kg7 73. Kh5 Ra5+ 74. Kh4 Ra6 75. g4 Kg6 76. Rc4
+Ra5 77. Rc7 Ra1 78. Rc6+ Kg7 79. Kh5 Ra5+ 80. Kh4 Rb5 81. Ra6 Rb1 82. Ra7+ Kg6
+83. Ra6+ Kg7 84. Kh5 Rb5+ 85. g5 Rb7 86. Rh6 Kg8 87. Rg6+ 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2018.12.22"]
+[Round "-"]
+[White "Hikaru"]
+[Black "Oleksandr_Bortnyk"]
+[Result "1-0"]
+[WhiteElo "3077"]
+[BlackElo "2884"]
+[TimeControl "180"]
+[EndTime "14:49:17 PST"]
+[Termination "Hikaru won on time"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 exd6 6. Nc3 Be7 7. Bd3 O-O 8.
+Nge2 Nc6 9. O-O Bg4 10. h3 Bh5 11. Be3 Re8 12. b3 Bg5 13. Qd2 Bxe3 14. fxe3 Qg5
+15. Nf4 Bg6 16. Bxg6 hxg6 17. Nb5 Re7 18. Rae1 Rae8 19. Rf3 Nd8 20. Nc3 c6 21.
+Qf2 Nd7 22. Rg3 Qa5 23. Qb2 Nf6 24. b4 Qf5 25. Rf1 Ne4 26. Nxe4 Qxe4 27. Qd2 Ne6
+28. Ne2 Nc7 29. Nc3 Qe6 30. Qd3 d5 31. c5 a6 32. a4 Qd7 33. Rgf3 Ne6 34. Rg3 Nf8
+35. Rf4 Nh7 36. e4 g5 37. Rfg4 dxe4 38. Rxe4 Nf6 39. Rxe7 Qxe7 40. d5 Qe1+ 41.
+Kh2 Nh5 42. Rxg5 Re3 43. Qd1 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2018.12.22"]
+[Round "-"]
+[White "NorwegianChessGiant"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "1944"]
+[BlackElo "3015"]
+[TimeControl "300"]
+[EndTime "8:23:32 PST"]
+[Termination "Hikaru won by resignation"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Bc4 Nb6 5. e6 Nxc4 6. exf7+ Kxf7 7. Qh5+ g6 8.
+Qd5+ Be6 9. Qf3+ Kg8 10. d5 Ne5 11. Qb3 Bf7 12. Qxb7 Nbd7 13. Bf4 Rb8 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2018.12.22"]
+[Round "-"]
+[White "57302_4"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "2107"]
+[BlackElo "3016"]
+[TimeControl "300"]
+[EndTime "9:10:36 PST"]
+[Termination "Hikaru won by resignation"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. exd6 exd6 5. Nf3 Be7 6. h3 O-O 7. Be2 Nb6 8. c4
+Bf6 9. O-O Nc6 10. Nc3 Bf5 11. a3 Re8 12. Be3 d5 13. c5 Nc4 14. Bc1 b6 15. Bxc4
+dxc4 16. d5 Na5 17. Be3 bxc5 18. Qa4 Nb3 19. Rad1 Bxc3 20. bxc3 Bc2 21. Qxc4 Re4
+22. Qe2 Bxd1 23. Qxd1 c4 24. Ng5 Re7 25. Qh5 h6 26. Nf3 Qd6 27. Rd1 Rae8 28. Nh4
+Re5 29. Qf3 Qd7 30. Qg4 Qxg4 31. hxg4 Rd8 32. Bf4 Rexd5 33. Rxd5 Rxd5 34. Bxc7
+Rd1+ 35. Kh2 Nd2 36. Kh3 Ne4 37. f3 Nxc3 38. Nf5 Nd5 39. Be5 f6 40. Bb2 c3 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2018.12.22"]
+[Round "-"]
+[White "Hikaru"]
+[Black "18football"]
+[Result "1-0"]
+[WhiteElo "3016"]
+[BlackElo "800"]
+[TimeControl "300"]
+[EndTime "9:41:31 PST"]
+[Termination "Hikaru won by resignation"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. c5 Nd5 5. Bc4 c6 6. Nc3 Nxc3 7. dxc3 d5 8. Bd3
+h5 9. Nf3 Bg4 10. h3 Bxf3 11. Qxf3 e6 12. b4 b6 13. cxb6 axb6 14. O-O Nd7 15.
+Qe2 Qc7 16. f4 g6 17. f5 gxf5 18. Bf4 Be7 19. Bxf5 Ra3 20. Rac1 Qa7 21. Bb1 c5
+22. Kh1 cxb4 23. cxb4 Bxb4 24. Rc8+ 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2018.12.22"]
+[Round "-"]
+[White "AnandPap123"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "1229"]
+[BlackElo "3016"]
+[TimeControl "300"]
+[EndTime "10:03:35 PST"]
+[Termination "Hikaru won on time"]
+
+1. e4 Nf6 2. Nc3 d5 3. exd5 Nxd5 4. Nxd5 Qxd5 5. Nf3 Bg4 6. d3 Nc6 7. h3 Bxf3 8.
+Qxf3 Qxf3 9. gxf3 Nd4 10. Kd1 O-O-O 11. Bg2 g5 12. Bxg5 Rg8 13. h4 h6 14. Bh3+
+Kb8 15. Be3 Nxf3 16. Ke2 Nxh4 17. Rag1 Bg7 18. c3 Ng6 19. Bf5 Bf6 20. Rxh6 Nf4+
+21. Bxf4 Rxg1 22. Rh7 Rb1 23. Ke3 Rxb2 24. Rxf7 Bxc3 25. Rxe7 Bd4+ 26. Ke4 Re2+
+27. Kf3 Rxe7 28. Bg5 Rde8 29. Bxe7 Rxe7 30. Be4 Rf7+ 31. Kg4 Rxf2 32. a4 c5 33.
+a5 b5 34. axb6 axb6 35. Bc6 b5 36. Bxb5 Kc7 37. Bc4 Kd6 38. Kg5 Ke5 39. Kg4 Rf4+
+40. Kg3 Be3 41. Kg2 Bf2 42. Kf1 Kd4 43. Ke2 Be3 44. Kd1 Rf2 45. Ke1 Rd2 46. Kf1
+Ke5 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2018.12.22"]
+[Round "-"]
+[White "isaiahe21"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "1547"]
+[BlackElo "3016"]
+[TimeControl "300"]
+[EndTime "10:17:48 PST"]
+[Termination "Hikaru won by resignation"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Nc6 5. Bb5 a6 6. Bxc6+ bxc6 7. c3 g6 8. O-O
+Bg7 9. Bg5 O-O 10. c4 Nb6 11. Qc2 f6 12. exf6 exf6 13. Be3 g5 14. Nbd2 h6 15.
+Rab1 f5 16. Nb3 f4 17. Bd2 Bf5 18. Qc3 g4 19. Ne1 Bxb1 20. c5 Nd5 21. Qc4 Bxa2
+22. Nd3 a5 23. Qc2 Bxb3 24. Qxb3 f3 25. g3 Rb8 26. Qc4 Kh8 27. Nf4 Nxf4 28. Bxf4
+Rxf4 29. gxf4 Qh4 30. cxd6 Qh3 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2018.12.23"]
+[Round "-"]
+[White "TricaSet"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "1693"]
+[BlackElo "3016"]
+[TimeControl "300"]
+[EndTime "11:00:17 PST"]
+[Termination "Hikaru won by resignation"]
+
+1. e4 Nf6 2. Nc3 d5 3. exd5 Nxd5 4. Nxd5 Qxd5 5. Nf3 Bg4 6. Be2 Nc6 7. h3 Bh5 8.
+O-O O-O-O 9. c3 e5 10. d3 f5 11. Nh2 Bxe2 12. Qxe2 Qxd3 13. Qxd3 Rxd3 14. Be3 f4
+15. Bc1 Bc5 16. b4 Bb6 17. Bb2 Rd2 18. Rab1 Rhd8 19. a4 a5 20. Nf3 e4 21. b5
+exf3 22. bxc6 bxc6 23. gxf3 Rxf2 24. Rxf2 Rd2 25. Rf1 Rxb2 26. h4 Bxf2+ 27. Rxf2
+Rxf2 28. Kxf2 Kd7 29. Ke2 Kd6 30. Kd3 Kd5 31. h5 g6 32. hxg6 hxg6 33. c4+ Kc5
+34. Ke4 Kxc4 35. Kxf4 Kb3 36. Kg5 c5 37. Kxg6 c4 38. f4 c3 39. f5 c2 40. f6 c1=Q
+41. f7 Qc5 42. Kg7 Qf8+ 43. Kf6 Kxa4 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2018.12.23"]
+[Round "-"]
+[White "HenricusHengst"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "1574"]
+[BlackElo "3016"]
+[TimeControl "300"]
+[EndTime "11:47:01 PST"]
+[Termination "Hikaru won by checkmate"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. exd6 exd6 6. Nf3 Be7 7. Bd3 Nc6 8. O-O
+Bg4 9. Be3 Bf6 10. Nc3 O-O 11. d5 Ne5 12. Be2 Nexc4 13. h3 Nxe3 14. fxe3 Bxf3
+15. Bxf3 Bxc3 16. bxc3 Nc4 17. Qd4 Ne5 18. Be2 Qg5 19. e4 g6 20. Rab1 b6 21. a4
+f5 22. exf5 Rxf5 23. Bg4 Nxg4 24. Qxg4 Qxg4 25. hxg4 Rxd5 26. c4 Re5 27. Rbe1
+Rae8 28. Rxe5 Rxe5 29. Rf4 Ra5 30. Re4 Rxa4 31. Re7 Rxc4 32. Re8+ Kf7 33. Ra8 a5
+34. Rh8 a4 35. Rxh7+ Kf6 36. Rh8 a3 37. Ra8 Rc3 38. Kf1 b5 39. Ke1 b4 40. Kd2 c5
+41. Ra6 Ke5 42. Ra8 Rg3 43. Re8+ Kd4 44. Re6 Rxg2+ 45. Kd1 d5 46. Rxg6 a2 47.
+Ra6 b3 48. g5 b2 49. Rxa2 b1=Q# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2018.12.23"]
+[Round "-"]
+[White "Meto1O"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "1147"]
+[BlackElo "3016"]
+[TimeControl "300"]
+[EndTime "11:56:31 PST"]
+[Termination "Hikaru won by checkmate"]
+
+1. e4 Nf6 2. Nc3 d5 3. e5 d4 4. exf6 dxc3 5. fxg7 cxd2+ 6. Bxd2 Bxg7 7. Qf3 Bxb2
+8. Rb1 Bf6 9. Rd1 Qd4 10. Bd3 Qg4 11. h3 Qxf3 12. Nxf3 Nc6 13. c3 Be6 14. O-O
+O-O-O 15. Rfe1 Rxd3 16. Kh1 Rhd8 17. Re2 Bxc3 18. Kh2 Nd4 19. Nxd4 R3xd4 20.
+Bxc3 Rxd1 21. Re3 R8d3 22. Rxd3 Rxd3 23. Bg7 Bxa2 24. Be5 c5 25. Bg7 c4 26. Bf8
+c3 27. Bxe7 c2 28. Bg5 Rd1 29. h4 b5 30. Kh3 b4 31. Kg4 b3 32. Kh5 b2 33. Kh6
+c1=Q 34. Bxc1 bxc1=Q+ 35. Kxh7 Qc6 36. h5 Qf6 37. h6 Bb1+ 38. Kg8 Rd8# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2018.12.23"]
+[Round "-"]
+[White "Hikaru"]
+[Black "eamj"]
+[Result "1-0"]
+[WhiteElo "3016"]
+[BlackElo "826"]
+[TimeControl "300"]
+[EndTime "12:28:04 PST"]
+[Termination "Hikaru won by checkmate"]
+
+1. e4 Nf6 2. e5 Nc6 3. c4 g6 4. exf6 b6 5. fxe7 Nxe7 6. d4 Bg7 7. Be2 Bb7 8. Bf3
+Bxf3 9. Nxf3 O-O 10. O-O Nf5 11. Nc3 a5 12. Bg5 Qe8 13. Re1 Qc8 14. Nd5 a4 15.
+g4 Nd6 16. Ne7+ Kh8 17. Nxc8 Raxc8 18. Ne5 Nxc4 19. Nxc4 Rce8 20. Qf3 Bxd4 21.
+Bf6+ Kg8 22. Bxd4 d5 23. Qf6 dxc4 24. Qg7# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2018.12.25"]
+[Round "-"]
+[White "Hikaru"]
+[Black "Oleksandr_Bortnyk"]
+[Result "0-1"]
+[WhiteElo "2988"]
+[BlackElo "2936"]
+[TimeControl "180"]
+[EndTime "18:01:41 PST"]
+[Termination "Oleksandr_Bortnyk won by resignation"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 Nb6 4. d4 d5 5. exd6 exd6 6. Nf3 Be7 7. Bd3 O-O 8.
+O-O d5 9. h3 Nc6 10. a3 Bf6 11. Ne2 g6 12. c3 Bg7 13. Ng3 Bd7 14. Bg5 f6 15. Bf4
+Re8 16. a4 a5 17. b3 Be6 18. Qd2 Bf7 19. Bh6 Bh8 20. h4 Nc8 21. Rae1 Nd6 22. Bf4
+Qd7 23. h5 Rxe1 24. Rxe1 Re8 25. Rxe8+ Nxe8 26. Qc2 f5 27. Ng5 Bf6 28. Qd2 Nd6
+29. Nxf7 Nxf7 30. Qe2 Ncd8 31. Qf3 c6 32. Bd2 Qe7 33. hxg6 hxg6 34. Ne2 Ne6 35.
+Qg3 Kh7 36. Qh3+ Kg7 37. f4 Nh6 38. Qf3 Bh4 39. c4 Bf6 40. Bc3 Ng4 41. Bc2 b6
+42. cxd5 cxd5 43. g3 Nc7 44. Qd3 Ne8 45. Be1 Nd6 46. b4 Nc4 47. bxa5 bxa5 48.
+Bb3 Nb2 49. Qd2 Nc4 50. Qd3 Qe6 51. Qf3 Bxd4+ 52. Kh1 Bf6 53. Kg2 Nce3+ 54. Kg1
+Qb6 55. Nc1 Nc2+ 56. Bf2 Nxf2 57. Bxc2 Ng4+ 58. Kg2 Ne3+ 59. Kh3 Nxc2 60. Qxd5
+Qc7 61. Nd3 Ne3 62. Nc5 Nxd5 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2018.12.25"]
+[Round "-"]
+[White "Sharpchess22"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "2799"]
+[BlackElo "2998"]
+[TimeControl "180"]
+[EndTime "18:25:07 PST"]
+[Termination "Hikaru won by resignation"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nb6 4. Nf3 d6 5. h3 Nc6 6. Bb5 a6 7. Bxc6+ bxc6 8. O-O
+g6 9. Qe2 Bg7 10. a4 a5 11. Re1 Ba6 12. Qd2 O-O 13. Qf4 f6 14. e6 Nd5 15. Qg3
+Nb4 16. Na3 g5 17. h4 h6 18. Qh3 Qe8 19. hxg5 fxg5 20. Nh2 Qg6 21. Be3 Bc8 22.
+Bd2 Rf6 23. c3 Nd3 24. Re2 Bxe6 25. Qg3 Raf8 26. Be3 Bb3 27. Ng4 R6f7 28. Nh2 e5
+0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2018.12.31"]
+[Round "-"]
+[White "Hikaru"]
+[Black "Mykola-Bortnyk"]
+[Result "1/2-1/2"]
+[WhiteElo "2982"]
+[BlackElo "2871"]
+[TimeControl "180"]
+[EndTime "13:34:20 PST"]
+[Termination "Game drawn by repetition"]
+
+1. e4 Nf6 2. Nc3 d5 3. e5 Nfd7 4. f4 c5 5. Nf3 Nc6 6. d4 cxd4 7. Nxd4 Nxd4 8.
+Qxd4 e6 9. Be3 Bc5 10. Qd2 Bxe3 11. Qxe3 a6 12. O-O-O g6 13. Ne2 Qa5 14. Kb1 Qc5
+15. Nd4 b5 16. h3 h5 17. g3 Bb7 18. Bd3 O-O-O 19. g4 hxg4 20. hxg4 Kb8 21. f5
+gxf5 22. gxf5 Ka8 23. Rhe1 Rh4 24. Qg5 Rhh8 25. fxe6 Qxd4 26. exd7 Qb6 27. Bf5
+Bc6 28. Qe7 Qc7 29. e6 fxe6 30. Bxe6 Bxd7 31. Bxd5+ Kb8 32. Qa3 Bc8 33. Bf3
+Rxd1+ 34. Rxd1 Rd8 35. Rc1 Bb7 36. Bxb7 Kxb7 37. Qf3+ Qc6 38. Qe3 Qb6 39. Qe4+
+Qc6 40. Qe2 Rd7 41. Rf1 Qd5 42. a3 Qd2 43. Qe4+ Qd5 44. Qg6 Qd6 45. Qg2+ Qd5 46.
+Qh3 Rc7 47. Qe3 Qc5 48. Qe4+ Qc6 49. Qd3 Qc4 50. Qd1 Qc6 51. Rf4 Rd7 52. Qf1 Rc7
+53. Rf2 Qc4 54. Qg2+ Qc6 55. Qh2 Qc5 56. Rf6 Qd5 57. Qe2 Rd7 58. Qf2 Qd1+ 59.
+Ka2 Qd5+ 60. b3 Qd4 61. Qf3+ Qd5 62. Qe3 Qd4 63. Qe6 Kc7 64. Qc6+ Kd8 65. Rh6
+Ke7 66. Rh7+ Kd8 67. Rxd7+ Qxd7 68. Qxa6 Qd2 69. Qc6 b4 70. Qc5 bxa3 71. Kxa3
+Qc1+ 72. Ka4 Qe1 73. Kb5 Qa1 74. c4 Qb2 75. Qd5+ Kc7 76. b4 Kb8 77. Qd6+ Kb7 78.
+Qc6+ Ka7 79. c5 Qe2+ 80. Ka5 Qa2+ 81. Qa4 Qe6 82. Kb5+ Kb7 83. Qa5 Qe2+ 84. Ka4
+Qa2+ 85. Kb5 Qe2+ 86. Ka4 Qa2+ 87. Kb5 Qe2+ 1/2-1/2
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2018.12.31"]
+[Round "-"]
+[White "Mykola-Bortnyk"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "2869"]
+[BlackElo "2984"]
+[TimeControl "180"]
+[EndTime "13:43:05 PST"]
+[Termination "Hikaru won by resignation"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nb6 4. a4 d6 5. a5 N6d7 6. Nf3 e6 7. exd6 cxd6 8. Bd3
+d5 9. O-O a6 10. c3 Nc6 11. b4 Bd6 12. Bg5 Qc7 13. Bh4 O-O 14. Bg3 Bxg3 15. hxg3
+e5 16. dxe5 Ndxe5 17. Nxe5 Nxe5 18. Re1 Be6 19. Bxh7+ Kxh7 20. Qh5+ Kg8 21. Qxe5
+Qxe5 22. Rxe5 Rac8 23. Re3 d4 24. Rd3 Rfd8 25. Kh2 Bf5 26. Rf3 Be4 27. Rf4 Bxb1
+28. Rxb1 dxc3 29. Rc1 c2 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2018.12.31"]
+[Round "-"]
+[White "Hikaru"]
+[Black "Mykola-Bortnyk"]
+[Result "1-0"]
+[WhiteElo "2989"]
+[BlackElo "2864"]
+[TimeControl "180"]
+[EndTime "13:46:57 PST"]
+[Termination "Hikaru won by resignation"]
+
+1. e4 Nf6 2. Nc3 d5 3. e5 Nfd7 4. f4 c5 5. Nf3 Nc6 6. d4 cxd4 7. Nxd4 Nxd4 8.
+Qxd4 e6 9. Be3 Bc5 10. Qd2 a6 11. O-O-O g6 12. h3 h5 13. g3 b5 14. Ne4 Bxe3 15.
+Nd6+ Ke7 16. Qxe3 Qb6 17. Qd2 Nc5 18. Bg2 Bd7 19. g4 f5 20. Kb1 Qc6 21. gxf5
+gxf5 22. Qf2 h4 23. Rhg1 Rag8 24. Bxd5 Ne4 25. Bxe4 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2018.12.31"]
+[Round "-"]
+[White "Mykola-Bortnyk"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "2859"]
+[BlackElo "2994"]
+[TimeControl "180"]
+[EndTime "13:51:21 PST"]
+[Termination "Hikaru won by checkmate"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nb6 4. Nf3 d6 5. a4 a5 6. Be2 g6 7. h4 h6 8. Nc3 Bg7
+9. Bf4 Nc6 10. exd6 cxd6 11. Qd2 Bg4 12. Nb5 Rc8 13. c3 Nb8 14. h5 g5 15. Nxg5
+Bxe2 16. Qxe2 hxg5 17. Nxd6+ Kf8 18. Nxc8 gxf4 19. Nxb6 Qxb6 20. Qb5 Qc7 21.
+O-O-O Rh6 22. Qg5 Nd7 23. Rh4 Nf6 24. Qxf4 Qxf4+ 25. Rxf4 Rxh5 26. Kc2 Rh2 27.
+Rg1 e6 28. Rf3 Rh5 29. Kd3 Nd5 30. g3 Ke7 31. b3 Rh3 32. c4 Nb4+ 33. Ke4 f5+ 34.
+Kf4 Bh6+ 35. Ke5 Nc6# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2018.12.31"]
+[Round "-"]
+[White "Hikaru"]
+[Black "Mykola-Bortnyk"]
+[Result "1-0"]
+[WhiteElo "2999"]
+[BlackElo "2854"]
+[TimeControl "180"]
+[EndTime "13:56:33 PST"]
+[Termination "Hikaru won by resignation"]
+
+1. e4 Nf6 2. Nc3 d5 3. e5 Nfd7 4. f4 c5 5. Nf3 Nc6 6. d4 cxd4 7. Nxd4 Ndb8 8.
+Nf3 e6 9. Be3 b6 10. Qd2 Ba6 11. O-O-O g6 12. Bxa6 Nxa6 13. Qe2 Nc7 14. g4 Bc5
+15. Bxc5 bxc5 16. Ne4 Qe7 17. Nf6+ Kf8 18. h4 Ne8 19. g5 h5 20. c4 d4 21. Nd2
+Nxf6 22. gxf6 Qb7 23. Rh3 Kg8 24. Ne4 Na5 25. Nd6 Qc6 26. Rg1 Rh7 27. Ra3 Nb7
+28. Ne4 Rd8 29. Ng5 Rh6 30. Qd3 Kf8 31. Rxa7 Qb6 32. Ra3 Ke8 33. Rb3 Qc6 34. Rb5
+Ra8 35. a3 Nd8 36. Ne4 Kf8 37. Rxc5 Qb7 38. Qxd4 Kg8 39. Ng5 Rh8 40. Qe4 Qa7 41.
+Nxf7 Qxf7 42. Qxa8 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2018.12.31"]
+[Round "-"]
+[White "Mykola-Bortnyk"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "2849"]
+[BlackElo "3004"]
+[TimeControl "180"]
+[EndTime "14:03:07 PST"]
+[Termination "Hikaru won on time"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. c5 Nd5 5. Bc4 e6 6. Nc3 d6 7. Nxd5 exd5 8. Bxd5
+c6 9. Bxf7+ Kxf7 10. cxd6 Qe8 11. Qe2 b6 12. Nf3 Ba6 13. Qe4 Kg8 14. d3 Nd7 15.
+Be3 Qe6 16. O-O Re8 17. Rfe1 Nxe5 18. Bd2 Nxf3+ 19. Qxf3 Qf7 20. Qxc6 Rd8 21.
+Bb4 Bb7 22. Qc3 Bxd6 23. Bxd6 Rxd6 24. Qe5 Rd8 25. Rac1 Qg6 26. g3 Qf6 27. Qxf6
+gxf6 28. Rc7 Bd5 29. Rxa7 h5 30. Ree7 h4 31. a4 hxg3 32. fxg3 Rh5 33. Kf2 Rf5+
+34. Ke2 Re5+ 35. Rxe5 fxe5 36. b4 Bf7 37. Rb7 Rd6 38. a5 bxa5 39. bxa5 Rd5 40.
+a6 Ra5 41. a7 Bd5 42. Rb8+ Kf7 43. Rd8 Ke6 44. Re8+ Kf5 45. Rd8 Ke6 46. Re8+ Kd6
+47. Rd8+ Kc5 48. Rc8+ Kd4 49. Rc2 Rxa7 50. Rd2 Rf7 51. Kd1 Bf3+ 52. Kc2 Ke3 53.
+Kc1 Rc7+ 54. Rc2 Rxc2+ 55. Kxc2 Kd4 56. Kd2 Bg4 57. h4 Bh5 58. Kc2 Bg6 59. Kd2
+Bxd3 60. g4 e4 61. h5 e3+ 62. Ke1 Be4 63. g5 Bf5 64. g6 Bd3 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2018.12.31"]
+[Round "-"]
+[White "Mykola-Bortnyk"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "2840"]
+[BlackElo "3013"]
+[TimeControl "180"]
+[EndTime "14:12:34 PST"]
+[Termination "Hikaru won by resignation"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Nb6 5. a4 a5 6. Be2 g6 7. O-O Bg7 8. exd6
+cxd6 9. Be3 O-O 10. Nc3 d5 11. b3 Nc6 12. Nb5 Bf5 13. c3 Rc8 14. h3 h6 15. Qd2
+g5 16. Rfe1 Bg6 17. Rac1 e6 18. Bf1 Qd7 19. h4 f6 20. Bd3 Be4 21. Bxe4 dxe4 22.
+Nh2 Nd5 23. c4 Ndb4 24. Rcd1 Nd3 25. Rf1 f5 26. hxg5 f4 27. gxh6 Bxh6 28. Ng4
+Bg5 29. Qe2 fxe3 30. Nxe3 Qg7 31. Nd6 Nxd4 32. Qg4 Rf4 33. Qh5 Rh4 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2019.01.03"]
+[Round "-"]
+[White "Hikaru"]
+[Black "Bigfish1995"]
+[Result "1/2-1/2"]
+[WhiteElo "3057"]
+[BlackElo "2906"]
+[TimeControl "180"]
+[EndTime "15:46:13 PST"]
+[Termination "Game drawn by repetition"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. c5 Nd5 5. Nc3 c6 6. Bc4 e6 7. Ne4 b6 8. cxb6
+axb6 9. Nf3 Ba6 10. Bxa6 Nxa6 11. d4 Be7 12. O-O O-O 13. g3 f5 14. exf6 Nxf6 15.
+Nxf6+ Bxf6 16. Qe2 Nc7 17. a3 Nd5 18. Rd1 Qe8 19. Ne1 Qg6 20. Be3 Ra4 21. Rac1
+b5 22. Qd3 Qg4 23. f3 Qf5 24. Qxf5 exf5 25. Bf2 b4 26. axb4 Nxb4 27. Rc4 Rb8 28.
+Nd3 d5 29. Rxb4 Raxb4 30. Nxb4 Rxb4 31. Rc1 Rb6 32. Rc2 Kf7 33. Kf1 Ke6 34. Ke2
+f4 35. Kd3 g5 36. b4 Ra6 37. gxf4 gxf4 38. Be1 Kd6 39. Bd2 Bg5 40. Rb2 Ra3+ 41.
+Ke2 Ra4 42. Kd3 Ra3+ 43. Ke2 Ra4 44. Kd3 Ra3+ 1/2-1/2
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2019.01.06"]
+[Round "-"]
+[White "florianschreib"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "1633"]
+[BlackElo "3122"]
+[TimeControl "180"]
+[EndTime "7:45:40 PST"]
+[Termination "Hikaru won by resignation"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Bc4 Nb6 5. Bb3 dxe5 6. dxe5 Qxd1+ 7. Kxd1 Nc6 8.
+Nf3 Bg4 9. Nc3 O-O-O+ 10. Bd2 Nxe5 11. Ke2 e6 12. Rad1 Nxf3 13. gxf3 Bf5 14. Be3
+Bb4 15. Nb5 a6 16. Nd4 Bg6 17. c3 Be7 18. h4 Bh5 19. Rhg1 Nd5 20. Bg5 Bxg5 21.
+hxg5 Rhe8 22. Rh1 Bg6 23. Rh4 e5 24. Nc2 Nf4+ 25. Ke3 Ng2+ 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2019.01.06"]
+[Round "-"]
+[White "emstrn"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "981"]
+[BlackElo "3122"]
+[TimeControl "180"]
+[EndTime "8:02:38 PST"]
+[Termination "Hikaru won by checkmate"]
+
+1. e4 Nf6 2. Nc3 d5 3. exd5 Nxd5 4. Bc4 Nb6 5. Bb3 Nc6 6. Nf3 Bf5 7. d3 e6 8.
+O-O Be7 9. Ne2 O-O 10. Nf4 Bg4 11. h3 Bxf3 12. Qxf3 Nd4 13. Qg4 a5 14. Nh5 g6
+15. Ng3 a4 16. Bc4 f5 17. Qd1 f4 18. c3 fxg3 19. fxg3 Rxf1+ 20. Qxf1 Nxc4 21.
+dxc4 Nf5 22. g4 Bc5+ 23. Kh1 Ng3+ 24. Kh2 Nxf1+ 25. Kh1 Qd1 26. Be3 Ng3+ 27. Kh2
+Nf1+ 28. Kg1 Qxa1 29. Bxc5 b6 30. Bd4 Ng3+ 31. Kh2 Ne2 32. Be5 Qg1# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2019.01.07"]
+[Round "-"]
+[White "i-takeback"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "1809"]
+[BlackElo "3122"]
+[TimeControl "180"]
+[EndTime "10:41:07 PST"]
+[Termination "Hikaru won by checkmate"]
+
+1. e4 Nf6 2. Nc3 d5 3. exd5 Nxd5 4. Nf3 g6 5. Bc4 Nb6 6. Bb3 Bg7 7. d3 O-O 8.
+O-O Nc6 9. h3 a5 10. a3 e5 11. Bg5 Qd7 12. Qc1 Kh8 13. Bh6 a4 14. Bxg7+ Kxg7 15.
+Ba2 f5 16. Re1 Ra5 17. Qe3 Qd6 18. Rad1 Nd4 19. Bb1 f4 20. Qc1 Nxf3+ 21. gxf3
+Bxh3 22. Ne4 Qe7 23. b4 Rf5 24. Kh2 Qh4 25. Rh1 Ra8 26. Kg1 Rg5+ 27. Nxg5 Qxg5+
+28. Kh2 Qg2# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2019.01.07"]
+[Round "-"]
+[White "Hikaru"]
+[Black "henryhassel"]
+[Result "1-0"]
+[WhiteElo "3122"]
+[BlackElo "1666"]
+[TimeControl "180"]
+[EndTime "11:10:51 PST"]
+[Termination "Hikaru won by checkmate"]
+
+1. e4 Nf6 2. Nc3 d5 3. exd5 Nxd5 4. Bc4 Nb6 5. Bb3 e6 6. Nf3 Nc6 7. d4 Na5 8.
+O-O Nxb3 9. axb3 Bd6 10. Ne5 Bxe5 11. dxe5 Qxd1 12. Rxd1 O-O 13. Be3 Nd7 14. Nb5
+Nxe5 15. Nxc7 Rb8 16. Bxa7 Bd7 17. Bxb8 Rxb8 18. f4 Rc8 19. fxe5 Rxc7 20. Ra8+
+Bc8 21. Rd8# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2019.01.07"]
+[Round "-"]
+[White "Hikaru"]
+[Black "FragileByDesign"]
+[Result "1-0"]
+[WhiteElo "3122"]
+[BlackElo "1522"]
+[TimeControl "180"]
+[EndTime "11:19:31 PST"]
+[Termination "Hikaru won by checkmate"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. c5 Nd5 5. Nc3 e6 6. d4 d6 7. cxd6 cxd6 8. Nf3
+Nc6 9. exd6 Nxc3 10. bxc3 Qxd6 11. Bd3 Be7 12. O-O O-O 13. Re1 Re8 14. Ng5 g6
+15. Ne4 Qc7 16. d5 exd5 17. Nf6+ Bxf6 18. Rxe8+ Kg7 19. Qd2 Rb8 20. Qh6# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2019.01.07"]
+[Round "-"]
+[White "Conna71"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "1064"]
+[BlackElo "3122"]
+[TimeControl "180"]
+[EndTime "11:30:23 PST"]
+[Termination "Hikaru won by resignation"]
+
+1. e4 Nf6 2. Nc3 d5 3. exd5 Nxd5 4. d4 g6 5. Nf3 Bg7 6. Bc4 Nb6 7. O-O O-O 8. h3
+Nxc4 9. d5 Nb6 10. Bf4 c6 11. dxc6 Nxc6 12. Qxd8 Rxd8 13. Rfd1 Bf5 14. Rxd8+
+Rxd8 15. Bc7 Rc8 16. Bxb6 Bxc3 17. bxc3 axb6 18. Rd1 Rd8 19. Rxd8+ Nxd8 20. Ne5
+Bxc2 21. Kh2 Nc6 22. Nxc6 bxc6 23. Kg3 c5 24. Kf3 b5 25. Ke3 b4 26. cxb4 cxb4
+27. Kd2 Bb1 28. Kc1 Bxa2 29. Kb2 Be6 30. g4 f6 31. f3 Bf7 32. h4 Kf8 33. h5 Ke8
+34. hxg6 hxg6 35. f4 g5 36. fxg5 fxg5 37. Kc2 Kd7 38. Kd2 Kd6 39. Kc1 Ke5 40.
+Kd2 Kf4 41. Ke2 Kxg4 42. Ke3 Kh3 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2019.01.07"]
+[Round "-"]
+[White "yualv"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "1000"]
+[BlackElo "3122"]
+[TimeControl "180"]
+[EndTime "12:49:58 PST"]
+[Termination "Hikaru won by checkmate"]
+
+1. e4 Nf6 2. Nf3 d5 3. e5 Nfd7 4. Bb5 a6 5. Bxd7+ Bxd7 6. O-O c5 7. Re1 Bg4 8.
+h3 Bxf3 9. gxf3 e6 10. b3 Nc6 11. Bb2 Qh4 12. Kg2 Be7 13. Nc3 Bg5 14. f4 Bxf4
+15. Ne2 Qg5+ 16. Kh1 Bxd2 17. Rg1 Qh6 18. c3 Qxh3# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2019.01.10"]
+[Round "-"]
+[White "Firouzja2003"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "3153"]
+[BlackElo "3222"]
+[TimeControl "60"]
+[EndTime "14:22:54 PST"]
+[Termination "Hikaru won by resignation"]
+
+1. e4 Nf6 2. Nc3 d5 3. exd5 Nxd5 4. Nf3 c5 5. d4 Nxc3 6. bxc3 cxd4 7. cxd4 e6 8.
+Bd3 Bb4+ 9. Bd2 Bxd2+ 10. Qxd2 Bd7 11. O-O Bc6 12. Ne5 Qxd4 13. Rfe1 Qd5 14. Qg5
+Nd7 15. Rad1 Nxe5 16. Rxe5 Qd7 17. Be2 Qe7 18. Qxg7 Rf8 19. Bh5 Rd8 20. Rde1 Rd6
+21. h3 Kd8 22. c4 f6 23. Qxe7+ Kxe7 24. R5e3 b6 25. f4 f5 26. Bf3 Bxf3 27. Rxf3
+Rc6 28. Rc3 Kf6 29. Rec1 Rfc8 30. Kf2 b5 31. c5 Ra6 32. R1c2 Rcc6 33. Ke3 Ra4
+34. g3 e5 35. Rd3 exf4+ 36. gxf4 Re4+ 37. Kf3 Rc4 38. Rxc4 bxc4 39. Rd5 Ra6 40.
+Rd6+ Rxd6 41. cxd6 Ke6 42. Ke3 Kxd6 43. Kd4 c3 44. Kxc3 Kc5 45. a3 a6 46. h4 h5
+47. Kd3 Kd5 48. a4 a5 49. Kc3 Ke4 50. Kc4 Kxf4 51. Kb5 Kg3 52. Kxa5 f4 53. Kb6
+f3 54. a5 f2 55. a6 f1=Q 56. a7 Qf3 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2019.01.14"]
+[Round "-"]
+[White "Hikaru"]
+[Black "K0tovSyndrome"]
+[Result "1-0"]
+[WhiteElo "3116"]
+[BlackElo "2434"]
+[TimeControl "180"]
+[EndTime "12:36:46 PST"]
+[Termination "Hikaru won on time"]
+
+1. e4 d5 2. exd5 Nf6 3. Nc3 Nxd5 4. Bc4 Be6 5. Bb3 Nc6 6. Nf3 g6 7. Ng5 Nxc3 8.
+Nxe6 Nxd1 9. Nxd8 Rxd8 10. Kxd1 Bg7 11. Ba4 e6 12. Bxc6+ bxc6 13. c3 c5 14. Kc2
+Rd5 15. d3 Kd7 16. Be3 Kc6 17. Rad1 Rhd8 18. Rd2 f5 19. f4 e5 20. Re1 Bh6 21. g3
+exf4 22. Bxf4 Bxf4 23. gxf4 Kd7 24. Rde2 Kc8 25. Re3 R8d6 26. h4 Kb7 27. b3 Kc6
+28. Rh3 Kd7 29. h5 Re6 30. Rxe6 Kxe6 31. hxg6 hxg6 32. Rh7 Rd7 33. Rxd7 Kxd7 34.
+Kd2 Ke6 35. a3 Kd5 36. Ke3 a5 37. c4+ Kd6 38. d4 cxd4+ 39. Kxd4 c5+ 40. Kc3 Kc6
+41. b4 axb4+ 42. axb4 cxb4+ 43. Kxb4 Kb6 44. c5+ Kc6 45. Kc4 Kc7 46. Kd5 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2019.01.16"]
+[Round "-"]
+[White "jinbojinbo"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "2265"]
+[BlackElo "2763"]
+[TimeControl "900+2"]
+[EndTime "17:39:30 PST"]
+[Termination "Hikaru won by resignation"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. exd6 cxd6 6. Nf3 g6 7. Nc3 Bg7 8. Be3
+Bg4 9. b3 Nc6 10. Be2 d5 11. c5 Nc8 12. O-O O-O 13. a3 e6 14. b4 a6 15. Qd2 N8e7
+16. Rfd1 Bxf3 17. Bxf3 Nf5 18. Ne2 Re8 19. g3 Nxe3 20. fxe3 Qg5 21. Bg2 Rad8 22.
+Rf1 e5 23. dxe5 Nxe5 24. Bxd5 Nf3+ 25. Rxf3 Rxd5 26. Qa2 Bxa1 27. Qxa1 Rxe3 28.
+Qf1 Rde5 29. h4 Qe7 30. Rxe3 Rxe3 31. Kf2 Rxa3 32. Qc1 Ra2 33. Qc4 Rb2 34. Kf3
+Qf6+ 35. Nf4 h6 36. Qe4 g5 37. hxg5 hxg5 38. Qe8+ Kg7 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2019.02.02"]
+[Round "-"]
+[White "Hikaru"]
+[Black "Alexander_Moskalenko"]
+[Result "1/2-1/2"]
+[WhiteElo "3107"]
+[BlackElo "2831"]
+[TimeControl "180"]
+[EndTime "7:32:42 PST"]
+[Termination "Game drawn by agreement"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 Nxc3 4. dxc3 d6 5. Bc4 e6 6. Nf3 dxe5 7. Qxd8+ Kxd8
+8. Nxe5 Ke8 9. O-O Bd6 10. Nf3 Nd7 11. Re1 Nb6 12. Bd3 a5 13. a4 Nd7 14. b3 Be7
+15. Bf4 Bd6 16. Be3 Ne5 17. Be2 Nxf3+ 18. Bxf3 f6 19. Rad1 Kf7 20. Rd3 e5 21.
+Be4 Rb8 22. f4 exf4 23. Ba7 Ra8 24. Bf2 Re8 25. Bd5+ Kf8 26. Rxe8+ Kxe8 27. Be4
+f5 28. Bf3 Rb8 29. Ba7 Ra8 30. Bf2 Rb8 31. Ba7 Ra8 32. Bd4 Kf7 33. Bd5+ Be6 34.
+Bxb7 Rd8 35. Bf2 g5 36. c4 Ke7 37. c5 Be5 38. Rxd8 Kxd8 39. Be1 Bd4+ 40. Kf1
+Bxc5 41. Bxa5 Kd7 42. Bd2 c6 43. Ba6 Bd5 44. Be2 Be3 45. Bxe3 fxe3 46. b4 f4 47.
+a5 Kc7 48. c4 Be4 49. b5 cxb5 50. cxb5 Kb7 51. Kg1 h6 52. Kf1 Bd5 53. Bd3 Ka7
+54. Be2 Kb7 55. Bf3 1/2-1/2

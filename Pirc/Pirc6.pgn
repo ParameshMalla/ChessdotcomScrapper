@@ -1,0 +1,306 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.12.18"]
+[Round "-"]
+[White "Hikaru"]
+[Black "Ginger_GM"]
+[Result "1-0"]
+[WhiteElo "2888"]
+[BlackElo "2467"]
+[TimeControl "180"]
+[EndTime "5:25:12 PST"]
+[Termination "Hikaru won by resignation"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 Nbd7 4. f4 e5 5. Nf3 exd4 6. Qxd4 c6 7. Qf2 d5 8. e5
+Bc5 9. Qh4 Qb6 10. exf6 Nxf6 11. Bd3 O-O 12. Kf1 Re8 13. Na4 Qb4 14. Nxc5 Qxc5
+15. Bd2 Bg4 16. Ne5 h5 17. Re1 Ne4 18. Bxe4 dxe4 19. Nxg4 hxg4 20. Bc3 e3 21.
+Qxg4 f6 22. h4 Rad8 23. Kg1 Re4 24. Bxf6 Qf8 25. Bxd8 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.12.21"]
+[Round "-"]
+[White "Hikaru"]
+[Black "BahadirOzen"]
+[Result "1-0"]
+[WhiteElo "2940"]
+[BlackElo "2594"]
+[TimeControl "180"]
+[EndTime "14:24:13 PST"]
+[Termination "Hikaru won by resignation"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 exd4 5. Nxd4 Be7 6. Bg5 O-O 7. Qd3 Nc6 8.
+Nxc6 bxc6 9. O-O-O Be6 10. f4 Nd7 11. Bxe7 Qxe7 12. f5 Ne5 13. Qe3 Bc4 14. b3
+Bxf1 15. Rhxf1 f6 16. Ne2 a5 17. a4 d5 18. exd5 Qa3+ 19. Kb1 Rab8 20. Rf4 cxd5
+21. Rxd5 Rfd8 22. Rxd8+ Rxd8 23. Rd4 Rb8 24. Qc3 c5 25. Rd5 c4 26. Rb5 Rd8 27.
+Nd4 Qd6 28. Ne6 Qd1+ 29. Kb2 Rd2 30. Rb8+ Kf7 31. Rb7+ Kg8 32. Rxg7+ Kh8 33. Rc7
+Kg8 34. Qg3+ Ng6 35. Rg7+ Kh8 36. Qb8+ 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.12.21"]
+[Round "-"]
+[White "Hikaru"]
+[Black "BahadirOzen"]
+[Result "1-0"]
+[WhiteElo "2944"]
+[BlackElo "2578"]
+[TimeControl "180"]
+[EndTime "14:33:03 PST"]
+[Termination "Hikaru won by resignation"]
+
+1. e4 d6 2. Nc3 Nf6 3. d4 e5 4. Nf3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. a4 c6 8. a5
+exd4 9. Nxd4 Nc5 10. Qe2 Nfxe4 11. Nxe4 Nxe4 12. Qxe4 d5 13. Bxd5 cxd5 14. Qd3
+Bf6 15. Be3 a6 16. c3 Bg4 17. f3 Bh5 18. Rfd1 Bg6 19. Qd2 Re8 20. Bf2 Qd7 21.
+Re1 Rxe1+ 22. Rxe1 Re8 23. Rxe8+ Qxe8 24. Ne2 Qb5 25. Bb6 h6 26. b4 Qc4 27. Bd4
+Bg5 28. Be3 Bf6 29. Bd4 Bg5 30. f4 Bh4 31. Bf2 Bf6 32. Bd4 Bh4 33. Qe3 Qa2 34.
+g3 Qb1+ 35. Kf2 Bf6 36. Bxf6 gxf6 37. Qc1 Qd3 38. Nd4 Be4 39. Qe1 Kh7 40. h3 Qc4
+41. Qd2 Qc8 42. g4 Qe8 43. Qe3 Qa4 44. Qe1 Qa2+ 45. Qe2 Qb1 46. Qe3 Qb2+ 47. Kg3
+Qg2+ 48. Kh4 Kg7 49. Qg3 Qd2 50. Nb3 Qd1 51. Nc5 Bg6 52. Nxb7 Qe2 53. Nc5 Qe7
+54. f5 Qd8 55. Qf4 Bh7 56. Nxa6 Qe7 57. Qd2 Qe4 58. Nc5 Qh1 59. Qf2 Qa1 60. a6
+Qxc3 61. a7 Qa3 62. Nd7 Qa6 63. Qc5 Kh8 64. Qf8+ Bg8 65. Qxh6+ Bh7 66. Qxf6+ 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.12.22"]
+[Round "-"]
+[White "Hikaru"]
+[Black "LyonBeast"]
+[Result "1/2-1/2"]
+[WhiteElo "3085"]
+[BlackElo "2885"]
+[TimeControl "60+1"]
+[EndTime "12:20:50 PST"]
+[Termination "Game drawn - insufficient material"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 exd4 5. Nxd4 g6 6. Be3 Bg7 7. Qd2 O-O 8.
+O-O-O c6 9. Bh6 Nbd7 10. Bxg7 Kxg7 11. h4 h5 12. Qg5 Nc5 13. f3 Qe7 14. Bc4 Qe5
+15. Qxe5 dxe5 16. Nb3 Nxb3+ 17. Bxb3 Re8 18. Rd6 Nd7 19. Rhd1 Nc5 20. Na4 Nxa4
+21. Bxa4 Kf8 22. Bb3 Ke7 23. a4 a5 24. R6d2 Ra7 25. c3 b6 26. Rd6 Rc7 27. g3 Bh3
+28. R1d2 Bg2 29. Bd1 Rec8 30. b4 Bh3 31. f4 exf4 32. gxf4 axb4 33. cxb4 Rd7 34.
+e5 Rxd6 35. Rxd6 Bd7 36. Bb3 Be8 37. Kb2 c5 38. b5 c4 39. Bc2 c3+ 40. Kb3 Bd7
+41. Bd3 Be6+ 42. Kc2 Ra8 43. Rd4 Rc8 44. Be4 Bg4 45. Bc6 f6 46. exf6+ Kxf6 47.
+Kxc3 Bf3 48. Kb4 Bxc6 49. bxc6 Rxc6 50. Rd5 Ke7 51. Kb5 Rf6 52. Rd4 Ke8 53. Ka6
+Ke7 54. Kb7 Ke8 55. Rb4 Kf7 56. Kc7 Kg7 57. Kd7 Kf7 58. Re4 Kg7 59. Kc7 Kf7 60.
+Kb7 Kg7 61. Rb4 Kf7 62. Rc4 Kg7 63. Ka6 Kh6 64. Kb5 Kg7 65. Rb4 Kh6 66. Ka6 Kg7
+67. Kb7 Kh6 68. Rxb6 Rxf4 69. a5 Rxh4 70. a6 Ra4 71. a7 Rxa7+ 72. Kxa7 Kg5 73.
+Rb5+ Kf4 74. Kb6 h4 75. Kc5 h3 76. Rb3 Kg4 77. Rb2 g5 78. Kd4 Kf3 79. Rb3+ Kg2
+80. Ke4 h2 81. Rb2+ Kh3 82. Rxh2+ Kxh2 83. Kf5 Kh1 84. Kg4 Kg2 85. Kxg5 1/2-1/2
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.12.22"]
+[Round "-"]
+[White "Hikaru"]
+[Black "MinhGTrAn"]
+[Result "1-0"]
+[WhiteElo "3084"]
+[BlackElo "2898"]
+[TimeControl "60"]
+[EndTime "4:15:01 PST"]
+[Termination "Hikaru won by resignation"]
+
+1. e4 Nf6 2. Nc3 d6 3. d4 e5 4. f4 exd4 5. Qxd4 Nc6 6. Qf2 Be7 7. Nf3 O-O 8. Bd3
+d5 9. e5 Ng4 10. Qg3 Nb4 11. h3 Nxd3+ 12. cxd3 Nh6 13. Qf2 Nf5 14. g4 Nh4 15. f5
+d4 16. Ne4 Nxf3+ 17. Qxf3 Bh4+ 18. Kf1 Bd7 19. f6 Bc6 20. g5 Re8 21. Qf4 Qd5 22.
+Qxh4 Rxe5 23. Kf2 Rf5+ 24. Bf4 Bb5 25. fxg7 Qe5 26. Nf6+ 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.12.31"]
+[Round "-"]
+[White "siciliannaga"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "2581"]
+[BlackElo "3094"]
+[TimeControl "60"]
+[EndTime "6:05:23 PST"]
+[Termination "Hikaru won by resignation"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 Nf6 5. Be3 O-O 6. Qd2 a6 7. h4 b5 8. a3 Bg4
+9. Bh6 Nbd7 10. Be2 e5 11. dxe5 Nxe5 12. Nxe5 dxe5 13. Be3 Qxd2+ 14. Bxd2 Be6
+15. O-O-O c5 16. f3 h5 17. Be3 c4 18. Na2 Rfc8 19. Nb4 a5 20. Nd5 Nxd5 21. exd5
+Bd7 22. c3 b4 23. cxb4 axb4 24. axb4 c3 25. bxc3 e4 26. fxe4 Rxc3+ 27. Kd2 Ra2+
+0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.01.22"]
+[Round "-"]
+[White "Hikaru"]
+[Black "AmeetGhasi1"]
+[Result "1-0"]
+[WhiteElo "3027"]
+[BlackElo "2595"]
+[TimeControl "60"]
+[EndTime "13:01:24 PST"]
+[Termination "Hikaru won by resignation"]
+
+1. e4 d6 2. Nc3 c6 3. d4 Nd7 4. f4 e5 5. Nf3 exd4 6. Qxd4 Ngf6 7. Bc4 Qb6 8.
+Qxb6 axb6 9. Bd3 b5 10. Be3 Nc5 11. Bxc5 dxc5 12. e5 Ng8 13. Be4 Nh6 14. a3 Nf5
+15. O-O Be7 16. Rfe1 O-O 17. Ne2 Be6 18. g4 Ne3 19. f5 Bd5 20. Bxd5 Nxd5 21. c3
+Ne3 22. Rac1 Nxg4 23. Nf4 Nh6 24. f6 gxf6 25. Kh1 fxe5 26. Nxe5 Bf6 27. Nd7 Bg7
+28. Nh5 Rfd8 29. Rg1 Rxd7 30. Nf6+ Kh8 31. Nxd7 c4 32. Rce1 Nf5 33. Rgf1 Nd6 34.
+Rd1 Ne4 35. Rxf7 Rd8 36. Re1 Ng5 37. Rfe7 Kg8 38. Nc5 Bf8 39. Re8 Rxe8 40. Rxe8
+Kf7 41. Re5 h6 42. Nxb7 Bg7 43. Nd8+ Kf6 44. Nxc6 Kg6 45. Rxb5 Nf3 46. Ne7+ Kf7
+47. Nf5 Ne5 48. Rb7+ Ke6 49. Nxg7+ 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.01.22"]
+[Round "-"]
+[White "kleinebeer98"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "2517"]
+[BlackElo "3037"]
+[TimeControl "60"]
+[EndTime "14:43:06 PST"]
+[Termination "Hikaru won by resignation"]
+
+1. e4 d6 2. Nf3 g6 3. Nc3 Bg7 4. d4 a6 5. Bd3 b5 6. h3 Bb7 7. a4 Nd7 8. axb5
+axb5 9. Rxa8 Bxa8 10. Bxb5 Nf6 11. Bd3 c5 12. O-O O-O 13. e5 dxe5 14. dxe5 Bxf3
+15. Qxf3 Nxe5 16. Qe2 Nxd3 17. cxd3 e6 18. Ne4 Nxe4 19. dxe4 Qb6 20. Be3 Qb4 21.
+Rc1 c4 22. Rxc4 Qxb2 23. Qxb2 Bxb2 24. Rc7 Bf6 25. Rb7 Rd8 26. Bf4 g5 27. Bg3
+Rd1+ 28. Kh2 h5 29. e5 Bg7 30. f4 h4 31. Bf2 gxf4 32. Bxh4 Bxe5 33. Rb5 f6 34.
+Rb7 f3+ 35. Bg3 f2 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.01.22"]
+[Round "-"]
+[White "kleinebeer98"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "2511"]
+[BlackElo "3043"]
+[TimeControl "60"]
+[EndTime "15:10:55 PST"]
+[Termination "Hikaru won by resignation"]
+
+1. Nf3 d6 2. e4 g6 3. Nc3 Bg7 4. d4 a6 5. Bc4 e6 6. a4 Ne7 7. O-O b6 8. Re1 Bb7
+9. Ba2 Nd7 10. Be3 h6 11. Qd2 g5 12. h3 Ng6 13. g3 O-O 14. Rad1 Qe7 15. Nh2 c5
+16. dxc5 Nxc5 17. Qxd6 Qxd6 18. Rxd6 Bxc3 19. bxc3 Nxe4 20. Rxb6 Nxc3 21. Bxe6
+Be4 22. Bd4 Nxa4 23. Rd6 Bxc2 24. Ba2 Rad8 25. Rxd8 Rxd8 26. Bf6 Rb8 27. Ng4 Bb3
+28. Nxh6+ Kf8 29. Rb1 Nc5 30. Bd4 Ne6 31. Be3 Kg7 32. Nf5+ Kf6 33. Nd4 Bxa2 34.
+Rxb8 Nc5 35. Rb6+ Ke5 36. Nf3+ Ke4 37. Nxg5+ Kf5 38. Bxc5 Kxg5 39. Rxa6 Bc4 40.
+Be3+ Kf5 41. Ra5+ Ke6 42. Rc5 Ne5 43. Bf4 Nf3+ 44. Kg2 Be2 45. Rc2 Ne1+ 46. Kg1
+Nxc2 47. Bd2 Kf5 48. f4 Ke4 49. Kf2 Bd3 50. Bc3 Nd4 51. g4 Ne6 52. g5 Nxf4 53.
+h4 Kf5 54. Kg3 Nh5+ 55. Kh3 Be4 56. Kh2 Kg6 57. Bd2 Kf5 58. Kg1 Kg4 59. Kh2 Kxh4
+60. Kg1 Kg4 61. Kh2 Nf4 62. Be1 Kxg5 63. Bg3 Kg4 64. Kg1 Kxg3 65. Kf1 Nd3 66.
+Ke2 Kf4 67. Kd2 Kf3 68. Kc3 Ke3 69. Kc4 Ne5+ 70. Kb5 Kd4 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.01.22"]
+[Round "-"]
+[White "erichansen"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "2763"]
+[BlackElo "2988"]
+[TimeControl "60"]
+[EndTime "18:13:29 PST"]
+[Termination "Hikaru won by resignation"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. f4 Qa5 5. Bd3 e5 6. Nf3 Bg4 7. dxe5 dxe5 8. O-O
+Nbd7 9. Kh1 Bb4 10. Qe1 O-O 11. Bd2 exf4 12. Bxf4 Bxc3 13. bxc3 Rfe8 14. Nd4 Ne5
+15. Qg3 Nh5 16. Qe1 Nxf4 17. Rxf4 Bh5 18. h3 Bg6 19. Nb3 Qc7 20. Qf2 Rad8 21.
+Rd1 c5 22. Qxc5 Rd7 23. Qf2 Qxc3 24. Qxa7 Nxd3 25. Rxd3 Rxd3 26. cxd3 Qxd3 27.
+Qxb7 Qe3 28. Rf3 Qxe4 29. Qxe4 Bxe4 30. Re3 Bxg2+ 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.01.22"]
+[Round "-"]
+[White "Hikaru"]
+[Black "Beca95"]
+[Result "1-0"]
+[WhiteElo "2853"]
+[BlackElo "2577"]
+[TimeControl "180"]
+[EndTime "20:27:43 PST"]
+[Termination "Hikaru won by resignation"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. dxe5 dxe5 5. Qxd8+ Kxd8 6. Bc4 Ke8 7. Bg5 Nbd7
+8. Nb5 Bd6 9. Nxd6+ cxd6 10. f3 Ke7 11. Ne2 Nb6 12. Bb3 Be6 13. Nc3 h6 14. Be3
+Rhc8 15. Bxb6 axb6 16. O-O-O Ra5 17. Kb1 Rac5 18. Rd3 b5 19. Rhd1 b4 20. Ne2 Rd8
+21. Nc1 d5 22. exd5 Bxd5 23. Re1 Bxb3 24. Rxb3 Rd2 25. Rxb4 Rcxc2 26. Rxb7+ Ke6
+27. Nd3 Nd7 28. a4 g5 29. a5 Rc4 30. Rxd7 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.02.12"]
+[Round "-"]
+[White "Hikaru"]
+[Black "Byniolus"]
+[Result "1-0"]
+[WhiteElo "3177"]
+[BlackElo "2594"]
+[TimeControl "60"]
+[EndTime "15:57:36 PST"]
+[Termination "Hikaru won by resignation"]
+
+1. e4 d6 2. Nc3 Nf6 3. d4 c6 4. f4 Qb6 5. Nf3 Bg4 6. Na4 Qa5+ 7. Nc3 Nxe4 8. Bd2
+Nxd2 9. Qxd2 Bxf3 10. gxf3 Nd7 11. d5 O-O-O 12. b4 Qxb4 13. dxc6 Nc5 14. Rb1 Qa5
+15. Rb5 Qa3 16. cxb7+ Kb8 17. Bc4 e6 18. Ne2 d5 19. Nd4 Rd6 20. Be2 a6 21. Rb1
+g5 22. fxg5 h6 23. O-O Rg8 24. Kh1 Rxg5 25. Nb3 Rc6 26. Qf4+ Rc7 27. Qf6 Be7 28.
+Qh8+ 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.02.17"]
+[Round "-"]
+[White "Yaacovn"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "2869"]
+[BlackElo "3190"]
+[TimeControl "60"]
+[EndTime "0:22:38 PST"]
+[Termination "Hikaru won on time"]
+
+1. d4 d6 2. e4 g6 3. Nc3 Bg7 4. Be3 a6 5. f3 b5 6. Nge2 Bb7 7. Qd2 Nd7 8. h4 h5
+9. O-O-O Nb6 10. Ng3 Nf6 11. e5 dxe5 12. dxe5 Qxd2+ 13. Bxd2 Nfd5 14. Nxd5 Bxd5
+15. Re1 O-O-O 16. a3 Bc4 17. Bxc4 Nxc4 18. Bc3 Bh6+ 19. Kb1 Bf4 20. Ne4 e6 21.
+Nc5 a5 22. Nd3 Bh6 23. Re2 Rd5 24. Ka2 Rhd8 25. b3 Ne3 26. Bd2 Nf5 27. Bxh6 Nxh6
+28. Rhe1 Nf5 29. Nf4 Rd4 30. Nd3 Nxh4 31. Kb2 Nf5 32. Nc5 R4d5 33. Nd3 Kb7 34.
+Re4 Kb6 35. b4 Rd4 36. Kc3 Rxe4 37. fxe4 Ne7 38. Nc5 Nc6 39. Nd3 Ra8 40. Rf1 Rf8
+41. Rf6 h4 42. Nf4 Rh8 43. Rxf7 axb4+ 44. axb4 g5 45. Nxe6 h3 46. gxh3 Rxh3+ 47.
+Kb2 Nxe5 48. Rf6 Nc4+ 49. Ka2 c6 50. Nd4 Ra3+ 51. Kb1 Ra4 52. Rxc6+ Kb7 53. Rc5
+Rxb4+ 54. Kc1 Kb6 55. Rc6+ Kb7 56. Rg6 Ra4 57. Rg7+ Kb6 58. Rg6+ Kc5 59. Nb3+
+Kb4 60. Kd1 Ra8 61. Ke2 Rd8 62. Rxg5 Re8 63. Nd4 Rxe4+ 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.02.18"]
+[Round "-"]
+[White "garcho08"]
+[Black "Hikaru"]
+[Result "0-1"]
+[WhiteElo "2706"]
+[BlackElo "3180"]
+[TimeControl "60"]
+[EndTime "6:11:53 PST"]
+[Termination "Hikaru won by resignation"]
+
+1. Nf3 d6 2. e4 g6 3. Nc3 Bg7 4. d4 a6 5. h3 b5 6. a3 Bb7 7. Bd3 Nd7 8. O-O c5
+9. dxc5 dxc5 10. Be3 c4 11. Be2 e6 12. Bd4 Ngf6 13. e5 Nh5 14. Ng5 Qxg5 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.04.06"]
+[Round "-"]
+[White "Hikaru"]
+[Black "Ginger_GM"]
+[Result "1-0"]
+[WhiteElo "2885"]
+[BlackElo "2542"]
+[TimeControl "180"]
+[EndTime "13:05:37 PDT"]
+[Termination "Hikaru won by resignation"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 Nbd7 4. f4 e5 5. Nf3 exd4 6. Qxd4 c6 7. Qf2 d5 8. e5
+Bc5 9. Qg3 Ne4 10. Nxe4 dxe4 11. Qxg7 Rf8 12. Ng5 Qb6 13. Nxe4 Qb4+ 14. Nc3 Nb6
+15. Bd3 Qd4 16. Ne4 Be6 17. Nf6+ Ke7 18. Qg3 Nc4 19. c3 1-0
