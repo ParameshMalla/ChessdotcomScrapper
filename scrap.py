@@ -32,27 +32,42 @@ def countPages(url):
     n = int(url[url.find('page=')+5:])
     return n
 
-# Strips all the whitespaces and /n character
+# Strips unwanted opening
 openings.remove(openings[0])
 for i in range(len(openings)):
+
+    # Strips all the whitespaces and /n character
     openings[i] = openings[i].strip()
+
+    # Makes openings url friendly
     openings[i] = openings[i].replace(' ','%20')
     openings[i] = openings[i].replace('-','_')
     url = "https://www.chess.com/games/archive/hikaru?gameOwner=other_game&gameType=live&opening="+openings[i]+"&timeSort=desc&gameTypes%5B0%5D=chess960&gameTypes%5B1%5D=daily"
     driver.get(url)
+
+    # Finds Last Button in archives webpage and calculates total no. of pages
+    # for that opening.
     if(len(driver.find_elements_by_xpath('//*[@id="games-root-index"]/div/div[1]/div/nav/button[7]'))>0):
         driver.find_element_by_xpath('//*[@id="games-root-index"]/div/div[1]/div/nav/button[7]').click()
         pageUrl = driver.current_url
         noOfPages = countPages(pageUrl)
     else:
         noOfPages = 2
+    
+    # Creates folder for the opening
     if not os.path.exists(openings[i]):
             os.makedirs(openings[i])
+
+    # Setup selenium to download in the opening folder
     pgns = os.path.join(r'D:\Programming\WebScraping\ChessdotcomScrapper', openings[i])
     enable_download_headless(driver, pgns)
+
+    # Loops through webpages of an opening
     for j in range(noOfPages,0,-1):
         pageUrl = pageUrl[:pageUrl.find('page=')+5] + str(j)
         driver.get(pageUrl)
+
+        # Selects all games on the webpage
         if(len(driver.find_elements_by_xpath('//*[@id="games-root-index"]/div/div[2]/div/table/thead/tr/th[7]/input')) > 0):
             driver.find_element_by_xpath('//*[@id="games-root-index"]/div/div[2]/div/table/thead/tr/th[7]/input').click()
         elif(len(driver.find_elements_by_xpath('//*[@id="games-root-index"]/div/div[1]/div/table/thead/tr/th[7]/input')) > 0):
@@ -61,6 +76,8 @@ for i in range(len(openings)):
             pageUrl = pageUrl[:pageUrl.find('page=')+5] + str(j)
             driver.get(pageUrl)
         driver.find_element_by_xpath('//*[@id="games-root-index"]/div/header/div/button/div/span').click()
+        
+        # Renames default file name to avoid overwriting
         src = os.path.join(pgns,'chess_com_games_2020-12-19.pgn')
         dst = os.path.join(pgns, openings[i]+str(j)+'.pgn')
         while not os.path.exists(src):
